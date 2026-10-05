@@ -1,88 +1,88 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-asigurarea-calitatii-farmaceutica",
-    "title": "Specialist Asigurarea Calității - Farmaceutică",
-    "company": "RECRUITING &amp; DEVELOPMENT COMPANY S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166510",
+    "title": "INGINER PRELUCRARI METALURGICE",
+    "company": "AEROSTAR SA",
     "location": [
-      "Bucuresti, Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-03T13:24:22.932Z",
+    "date": "2026-10-04T18:55:47.179Z",
     "status": "scraped",
     "tags": [
-      "caracterizarea materialelor",
-      "analiza de laborator"
+      "prelucrari metalurgice",
+      "tehnologii de procesare"
     ],
-    "matchPercentage": 90,
-    "reason": "Activitățile analitice de laborator corespund direct caracterizării materialelor."
+    "matchPercentage": 88,
+    "reason": "Prelucrari metalurgice la studii superioare cu experienta sub 3 ani — potrivire directa de domeniu si de nivel."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-controlul-calitatii-qa-qc-1",
-    "title": "Inginer controlul calitatii/QA/QC",
-    "company": "CIS GAZ SA",
+    "url": "https://cariere.aerostar.ro/jobs/9cf59402-0cee-43ef-841c-b37db4d7d6f7",
+    "title": "INGINER METALURG",
+    "company": "AEROSTAR SA",
     "location": [
-      "Ramnicu Valcea, Romania,Calimanesti, Romania,Dragasani, Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-03T13:22:49.292Z",
+    "date": "2026-10-04T18:55:47.179Z",
     "status": "scraped",
     "tags": [
-      "controlul calității",
-      "coroziune"
+      "fluxuri tehnologice",
+      "consumuri de material"
     ],
-    "matchPercentage": 90,
-    "reason": "Inginer QA/QC cu accent pe coroziune se potrivește domeniului materialelor."
+    "matchPercentage": 86,
+    "reason": "Elaborarea fluxurilor tehnologice de fabricatie si a consumurilor specifice de material este exact profilul de procesare metalurgica, fara cerinta de experienta prelungita."
   },
   {
-    "url": "https://usamvjobs.ro/job/bragadiru-2-analist-controlul-calitatii/",
-    "title": "Analist Controlul Calitatii",
-    "company": "LAROPHARM SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383017",
+    "title": "INGINER MECANIC",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
     "location": [
-      "Romania"
+      "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:21:25.381Z",
+    "date": "2026-10-04T14:05:36.501Z",
     "status": "scraped",
     "tags": [
-      "caracterizarea materialelor",
-      "analiza de laborator"
+      "asimilarea sudarii",
+      "caracterizare materiale"
     ],
-    "matchPercentage": 90,
-    "reason": "Analiza calitativă/cantitativă în laborator este specifică specializării."
+    "matchPercentage": 86,
+    "reason": "Inginer mecanic la ISIM Timisoara, cu 0 ani experienta ceruti - cercetare in sudura si incercari de materiale, potrivire directa de domeniu si nivel."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/laborant-chimist-inspectia-calitatii-1",
-    "title": "Laborant Chimist - Inspectia Calitatii",
-    "company": "BRD - GROUPE SOCIETE GENERALE SA BUCURESTI SUCURSALA POLICOLOR",
+    "url": "https://cemacon.ro/cariere/inginer-tehnolog/",
+    "title": "Inginer Tehnolog",
+    "company": "CEMACON SA",
     "location": [
-      "Bd. Timișoara, Bucuresti, Romania"
+      "Cluj-Napoca"
     ],
     "salary": null,
-    "date": "2026-10-03T13:18:44.697Z",
+    "date": "2026-10-04T18:55:57.742Z",
     "status": "scraped",
     "tags": [
-      "caracterizarea materialelor",
-      "analiza de laborator"
+      "materiale ceramice",
+      "tehnologie de fabricatie"
     ],
     "matchPercentage": 85,
-    "reason": "Laborant chimist în controlul calității folosește tehnici analitice relevante."
+    "reason": "Tehnologie de fabricatie pentru blocuri ceramice, parametri de ardere/uscare, consumuri de materii prime si asigurarea calitatii — foloseste direct competentele de procesare si materiale ceramice, fara cerinta de senioritate."
   },
   {
-    "url": "https://d-career.org/Draexlmaier/job/Codlea-Brasov-Specialist-%C3%AEn-domeniul-calit%C4%83%C8%9Bii-%28perioada-determinata%29-505100/1437665933/",
-    "title": "Specialist în domeniul calității (perioada determinata)",
-    "company": "DAR DRAXLMAIER AUTOMOTIVE SRL",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-constructii-metalice/1990954",
+    "title": "Inginer Constructii metalice",
+    "company": "POP INDUSTRY PRODUCȚIE S.R.L.",
     "location": [
-      "Codlea, Romania"
+      "Slatina, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:15:47.087Z",
+    "date": "2026-10-04T14:12:00.077Z",
     "status": "scraped",
     "tags": [
-      "controlul calității",
-      "asigurarea calității"
+      "CAD",
+      "tehnologie"
     ],
     "matchPercentage": 85,
-    "reason": "Instrumentele de calitate sunt aplicabile în ingineria materialelor."
+    "reason": "Inginer constructii metalice cu CAD, desene, materiale si tehnologii relevante pentru specialitate."
   },
   {
     "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
@@ -92,14 +92,116 @@
       "Belciugatele, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:23:32.627Z",
+    "date": "2026-10-04T13:58:17.320Z",
     "status": "scraped",
     "tags": [
-      "CNC",
-      "tehnologii de procesare"
+      "sisteme CNC",
+      "desen tehnic"
+    ],
+    "matchPercentage": 85,
+    "reason": "Tehnician CAD/CAM/CNC pentru matrite de turnatorie, foloseste direct desenul tehnic, proiectarea asistata de calculator si procedeele de prelucrare la nivel junior."
+  },
+  {
+    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
+    "title": "INSPECTOR DE CALITATE",
+    "company": "AEROSTAR SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-04T18:55:47.179Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calitatii",
+      "caracterizarea materialelor"
+    ],
+    "matchPercentage": 82,
+    "reason": "Inspector de calitate în aviație: verificare a conformității față de desene și specificații, măsurarea dimensiunilor și înregistrarea datelor, exact în zona controlului calității și caracterizării materialelor."
+  },
+  {
+    "url": "https://cariere.aerostar.ro/jobs/1c5018b9-e8ee-493c-9d6f-a07cf81b400f",
+    "title": "INGINER SUDOR",
+    "company": "AEROSTAR SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-04T18:55:47.179Z",
+    "status": "scraped",
+    "tags": [
+      "tehnologie de sudare",
+      "consumuri de material"
     ],
     "matchPercentage": 80,
-    "reason": "Programarea CAD/CAM/CNC este direct legată de tehnologiile de procesare și sistemele cu comandă numerică."
+    "reason": "Asistenta tehnica la prototip si stabilirea consumurilor de material pentru operatii tehnologice, in acord cu tehnologia de sudare si procedeele conexe."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269933/Hipo-Job-Finder/Tehnician-analiza-calitatii-(2-sau-4-schimburi)-(F/M)---Marquardt",
+    "title": "Tehnician analiza calitatii (2 sau 4 schimburi) (F/M) - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:09:56.232Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calitatii",
+      "tehnici de masurare"
+    ],
+    "matchPercentage": 80,
+    "reason": "Tehnician de analiza a calitatii la Marquardt corespunde direct controlului calitatii si caracterizarii de materiale in industrie, cu experienta rezonabila."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-tehnic-cad-arhitectura-si-structura",
+    "title": "Desenator tehnic CAD arhitectura si structura",
+    "company": "BOGDY SPEDITION BUSINESS S.R.L.",
+    "location": [
+      "Remote, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:04:56.581Z",
+    "status": "scraped",
+    "tags": [
+      "CAD",
+      "desen tehnic"
+    ],
+    "matchPercentage": 80,
+    "reason": "Desenator tehnic CAD pentru arhitectura si structura - relevant pentru desen tehnic si CAD."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-laborator-teste-vopsea-1",
+    "title": "Tehnician laborator teste vopsea",
+    "company": "ARSIL TECH SRL",
+    "location": [
+      "Codlea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:11:42.343Z",
+    "status": "scraped",
+    "tags": [
+      "caracterizare",
+      "analiza de laborator"
+    ],
+    "matchPercentage": 80,
+    "reason": "Testele fizico-chimice si caracterizarea in laboratorul de vopsea se potrivesc direct cu competentele materialelor polimerice."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
+    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
+    "location": [
+      "Sibiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:09:56.232Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calitatii",
+      "tehnici de masurare"
+    ],
+    "matchPercentage": 78,
+    "reason": "Analiza calitatii pe componente electronice se bazeaza pe masurare si caracterizare, dar accentul pe electronica reduce relevanta pentru materiale."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-calitate-metalurgie-mecanica",
@@ -112,144 +214,297 @@
     "date": "2026-10-03T13:11:20.340Z",
     "status": "scraped",
     "tags": [
-      "managementul calitatii",
-      "metalurgie"
-    ],
-    "matchPercentage": 78,
-    "reason": "Specialist Calitate in metalurgie si mecanica combina direct domeniul metalurgiei cu controlul calitatii materialelor, la nivel de specialist potrivit."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/specialist-asigurarea-calitatii/1990115",
-    "title": "Specialist asigurarea calitatii",
-    "company": "DACIA PLANT SRL",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:24:27.351Z",
-    "status": "scraped",
-    "tags": [
-      "controlul calității",
+      "controlul calitatii",
       "caracterizarea materialelor"
     ],
-    "matchPercentage": 75,
-    "reason": "Controlul calității se potrivește cu competențele din domeniul materialelor."
+    "matchPercentage": 78,
+    "reason": "Specialist Calitate in metalurgie/mecanica intr-un laborator de caracterizare si control al materialelor, potrivire buna cu competentele tale de analiza si asigurarea calitatii."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383017",
-    "title": "INGINER MECANIC",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/desenator-tehnic-proiectant-solidworks/1986923",
+    "title": "Desenator Tehnic / Proiectant SolidWorks",
+    "company": "KRONSTEF SRL",
     "location": [
-      "Timișoara, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:05:30.447Z",
+    "date": "2026-10-02T14:29:49.626Z",
+    "status": "scraped",
+    "tags": [
+      "desen tehnic",
+      "proiectare CAD"
+    ],
+    "matchPercentage": 76,
+    "reason": "Desenator-proiectant SolidWorks cu modelare 3D, desen de executie si documentatie de productie din tabla, la nivel entry cu doar 1 an de experienta cerut."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271257/Bosch-Romania/Working-Student-in-Packaging-Design-Engineer-Team",
+    "title": "Working Student in Packaging Design Engineer Team",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:08:45.612Z",
+    "status": "scraped",
+    "tags": [
+      "alegerea materialelor",
+      "CAD"
+    ],
+    "matchPercentage": 75,
+    "reason": "Design ambalaje poate implica alegerea materialelor si CAD."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/inginer-designer-3d-junior-senior-proiectare-mecanica-cad-autocad-solidworks-rhino/",
+    "title": "INGINER / DESIGNER 3D (Junior–Senior) – Proiectare mecanică | CAD | Autocad / SolidWorks / Rhino",
+    "company": "NUINTEK EUROPE  SRL",
+    "location": [
+      "Apahida, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T13:48:26.841Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare CAD",
+      "desen tehnic"
+    ],
+    "matchPercentage": 74,
+    "reason": "Proiectare mecanica 3D cu niveluri de incepator pana la avansat, bazata pe CAD si desen tehnic, relevanta pentru competentele de proiectare asistata de calculator."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-analist-chimie-recrutam-pentru-clientul-nostru/2671",
+    "title": "Tehnician/Analist Chimie – Recrutăm pentru Clientul nostru",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:11:46.651Z",
+    "status": "scraped",
+    "tags": [
+      "analiza de laborator",
+      "industrie chimica"
+    ],
+    "matchPercentage": 72,
+    "reason": "Tehnician/Analist de chimie corespunde analizei de laborator si caracterizarii materialelor, insa nu este clar entry-level si fara detalii despre responsabilitati."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-proiectare-fabricatie",
+    "title": "Inginer Mecanic (Proiectare &amp; Fabricație)",
+    "company": "FLUOROCARBON POLYMERS SRL",
+    "location": [
+      "Alexandria, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:12:43.373Z",
+    "status": "scraped",
+    "tags": [
+      "materiale polimerice",
+      "proiectare fabricatie"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inginer mecanic la un producator de materiale polimerice, cu sarcini de proiectare si fabricatie, potrivit pentru domeniul polimerelor si prelucrare."
+  },
+  {
+    "url": "https://d-career.org/Draexlmaier/job/Codlea-Brasov-Specialist-%C3%AEn-domeniul-calit%C4%83%C8%9Bii-%28perioada-determinata%29-505100/1437665933/",
+    "title": "Specialist în domeniul calității (perioada determinata)",
+    "company": "DAR DRAXLMAIER AUTOMOTIVE SRL",
+    "location": [
+      "Codlea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:13:00.426Z",
     "status": "scraped",
     "tags": [
       "controlul calitatii",
-      "caracterizare materiale"
-    ],
-    "matchPercentage": 72,
-    "reason": "Institut de cercetare in sudura si incercari de materiale, post de inginer cu 0 ani experienta ceruti; relevant pentru caracterizare si controlul calitatii, desi titlul e inginer mecanic."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3404501",
-    "title": "SPECIALIST ÎN DOMENIUL CALITATII",
-    "company": "SCHIEFFER INDUSTRIES ROMANIA SRL",
-    "location": [
-      "Lugoj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:23:55.509Z",
-    "status": "scraped",
-    "tags": [
-      "controlul calității"
+      "asigurarea calitatii"
     ],
     "matchPercentage": 70,
-    "reason": "Planificarea și controlul calității sunt relevante pentru ingineria materialelor."
+    "reason": "Poziție temporară în controlul calității în automotive, cu 8D, nonconformități și comunicare cu furnizorii, dar cere deja experiență în controlul calității și reclamații."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269847/Bosch-Romania/Working-Student---3D-Printing",
-    "title": "Working Student - 3D Printing",
-    "company": "BOSCH REXROTH S.R.L.",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
+    "title": "Analist Controlul Calitatii",
+    "company": "MESSER ROMANIA GAZ SRL",
     "location": [
-      "Blaj, Romania"
+      "Resita, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:21:05.307Z",
+    "date": "2026-10-04T14:09:09.184Z",
     "status": "scraped",
     "tags": [
-      "tehnologii de procesare",
-      "proiectare CAD"
+      "controlul calitatii",
+      "analiza de laborator"
     ],
-    "matchPercentage": 68,
-    "reason": "Additive manufacturing la Bosch este procesare de materiale, potrivita ca si pozitie de student, desi e orientata mai mult pe operare decat pe proiectare."
+    "matchPercentage": 70,
+    "reason": "Analist control alitatii pentru gaze lichefiate are laborator analitic, calibrare si investigare de neconformitati, insa cerinta de studii farmaceutice este un dezavantaj."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectant-mecanic-cad_hunedoara_5373/",
-    "title": "Inginer Proiectant Mecanic CAD",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://multijobs.ro/job/inginer-calitate/651",
+    "title": "Inginer Calitate",
+    "company": "CALIP ROMANIA S.R.L.",
     "location": [
-      "Hunedoara, Romania"
+      "Oradea, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T15:45:12.249Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 66,
-    "reason": "Proiectare mecanica CAD intr-un departament tehnic de mentenanta - utilizeaza direct desenul tehnic si proiectarea asistata de calculator, dar nu cuprinde caracterizarea sau procesarea materialelor."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-ssm-psi-esg-analist",
-    "title": "Specialist ( SSM ), ( PSI ), ESG analist",
-    "company": "CARREMAN ROMANIA SRL",
-    "location": [
-      "BOTOSANI CALEA NATIONALA 30, Botosani, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:44.841Z",
-    "status": "scraped",
-    "tags": [
-      "materiale sustenabile",
-      "protecția mediului"
-    ],
-    "matchPercentage": 65,
-    "reason": "ESG se aliniază parțial cu materialele sustenabile și protecția mediului."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3215752",
-    "title": "INGINER INDUSTRIALIZAREA LEMNULUI",
-    "company": "SELMI WOOD CONCEPT SRL",
-    "location": [
-      "Jiet, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:25:53.219Z",
-    "status": "scraped",
-    "tags": [
-      "materiale compozite",
-      "procesare materiale"
-    ],
-    "matchPercentage": 62,
-    "reason": "Inginer pentru industrializarea lemnului, cu cerinta de sub 3 ani experienta - lucreaza la prelucrarea si industrializarea materialelor lemnoase, relevanta partial pentru materiale polimerice si compozite."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/coordonator-suport-audit-iso-junior-auditor-iso",
-    "title": "Junior auditor ISO / Coordonator suport audit",
-    "company": "ALFATRUST CERTIFICATION SA",
-    "location": [
-      "Târgu Mureș, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:04:24.156Z",
+    "date": "2026-10-04T14:12:30.565Z",
     "status": "scraped",
     "tags": [
       "managementul calitatii"
     ],
+    "matchPercentage": 70,
+    "reason": "Inginer Calitate la un producator de ambalaje din materiale plastice, fara cerinta de senioritate, corespunde profilului de calitate in industria polimerica."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-solidworks-confectii-metalice-4",
+    "title": "Inginer mecanic SOLIDWORKS - confectii metalice",
+    "company": "DIGITAL TELECOMMS SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T13:48:12.627Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare CAD",
+      "prelucrare materiale"
+    ],
+    "matchPercentage": 70,
+    "reason": "Proiectare de confectii metalice in SolidWorks, legata direct de modelarea 3D si de prelucrarea materialelor metalice, fara cerinta de experienta prelungita."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-laborator-constructii-cluj-napoca-1",
+    "title": "inginer laborator constructii Cluj Napoca",
+    "company": "PROCEMA CERCETARE SRL",
+    "location": [
+      "Strada Beiusului, Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:13:32.309Z",
+    "status": "scraped",
+    "tags": [
+      "caracterizare",
+      "analiza de laborator"
+    ],
+    "matchPercentage": 70,
+    "reason": "Laboratorul de constructii implica caracterizarea materialelor de constructie, partial relevant pentru domeniu."
+  },
+  {
+    "url": "https://turbomecanica.ro/job/auditor-intern-inginer-metalurg/",
+    "title": "Auditor intern - Inginer metalurg",
+    "company": "TURBOMECANICA SA",
+    "location": [
+      "Bucuresti"
+    ],
+    "salary": null,
+    "date": "2026-10-04T18:55:51.550Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calitatii",
+      "metalurgie"
+    ],
+    "matchPercentage": 68,
+    "reason": "Cere explicit facultatea de Stiinta si Ingineria Materialelor si lucra la neconformitati si cause radacina in productie metalurgica, dar cere deja 2 ani de experienta in domeniu."
+  },
+  {
+    "url": "https://multijobs.ro/job/specialist-controlul-calitatii/5448",
+    "title": "Specialist Controlul Calității",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:05:59.109Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calitatii",
+      "asigurarea calitatii"
+    ],
+    "matchPercentage": 68,
+    "reason": "Specialist Controlul Calitatii are corespondenta rezonabila cu managementul calitatii si caracterizare, dar titlul de specialist si detaliile lipsa ridica riscul de cerere de experienta."
+  },
+  {
+    "url": "https://usamvjobs.ro/job/bragadiru-2-responsabil-calitate/",
+    "title": "Responsabil calitate",
+    "company": "SUN INDUSTRIES SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:12:49.858Z",
+    "status": "scraped",
+    "tags": [
+      "managementul calitatii"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rol de nivel entry in managementul calitatii in industrie, cu analiza neconformitatilor si actiuni corective pe produse/procese, aliniat competentelor tale de asigurarea calitatii."
+  },
+  {
+    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
+    "title": "ASAM angajeaza inginer proiectant Solidworks",
+    "company": "ASAM SA",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:09:46.147Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare CAD",
+      "materiale polimerice"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rol de inginer proiectant in SolidWorks intr-oCompanie de piese din materiale plastice, deci vecin cu domeniul materialelor polimerice si cu proiectarea asistata de calculator."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/specialist-proces-sudura/323/",
+    "title": "Specialist Proces Sudura",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Cateasca,jud. Arges (langa autostrada A1), Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T14:05:47.537Z",
+    "status": "scraped",
+    "tags": [
+      "asimilarea sudarii",
+      "controlul calitatii"
+    ],
+    "matchPercentage": 64,
+    "reason": "Specialist proces sudura - relevanta partiala domeniul tehnologiei de sudare si a controlului executiei, fara cerinta explicita de experienta lunga."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
+    "title": "TEHNICIAN/INGINER AUTOCAD",
+    "company": "MSM ALUMINIUM &amp; PVC SYSTEMS SRL",
+    "location": [
+      "Str. Splaiul Unirii, nr. 5B, Popesti-Leordeni, Ilfov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T13:59:55.884Z",
+    "status": "scraped",
+    "tags": [
+      "proiectare CAD",
+      "alegerea materialelor"
+    ],
+    "matchPercentage": 64,
+    "reason": "Tehnician/inginer AutoCAD pentru sisteme din aluminiu si PVC, culegere partial relevanta pentru alegerea materialelor si proiectare, dar mai ales proiectare arhitecturala."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-autocad-32",
+    "title": "Desenator AutoCAD",
+    "company": "MEISER ROMANIA SRL",
+    "location": [
+      "Oradea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:04:16.519Z",
+    "status": "scraped",
+    "tags": [
+      "desen tehnic",
+      "proiectare CAD"
+    ],
     "matchPercentage": 62,
-    "reason": "Pozitie junior in auditul sistemelor de management, nivel potrivit, insa sarcinile sunt administrative si nu folosesc direct caracterizarea sau procesarea materialelor."
+    "reason": "Desenator AutoCAD pentru produse metalice (grate, scari, tabla perforata si expandata), cu relevanta partiala prin desen tehnic si prelucrarea tablei, fara experienta obligatorie."
   }
 ]
