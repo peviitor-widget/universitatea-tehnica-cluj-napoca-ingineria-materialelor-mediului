@@ -1,20 +1,36 @@
 [
   {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/working-student-laboratory-support-chemical-testing/100788",
-    "title": "Working Student Laboratory Support (Chemical Testing)",
-    "company": "BOSCH REXROTH S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-solidworks-confectii-metalice-4",
+    "title": "Inginer mecanic SOLIDWORKS - confectii metalice",
+    "company": "DIGITAL TELECOMMS SRL",
     "location": [
-      "Cluj, Jucu, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:04:18.446Z",
+    "date": "2026-10-07T15:27:19.482Z",
     "status": "scraped",
     "tags": [
-      "Caracterizare materiale",
-      "Cercetare experimentală"
+      "CAD"
     ],
     "matchPercentage": 95,
-    "reason": "Analize fizice si chimice de laborator, cu cerinta explicita de studii in stiinta materialelor, chimie sau fizica."
+    "reason": "SolidWorks și proiectare asistată se potrivesc direct cu competențele."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-in-stiinta-materialelor-3",
+    "title": "Inginer in stiinta materialelor",
+    "company": "FORJA ROTEC SRL",
+    "location": [
+      "Ploiesti, Romania,Bucuresti, Romania,Buzau, Romania,Ramnicu Sarat, Romania,Braila, Romania,Galati, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:25:22.392Z",
+    "status": "scraped",
+    "tags": [
+      "caracterizare materiale",
+      "dezvoltare materiale"
+    ],
+    "matchPercentage": 88,
+    "reason": "Postul de inginer în știința materialelor intră direct în domeniul de specialitate al absolventului."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-calitate-metalurgie-mecanica",
@@ -24,31 +40,14 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:56:11.931Z",
+    "date": "2026-10-07T15:10:05.749Z",
     "status": "scraped",
     "tags": [
-      "Controlul calitatii",
+      "Controlul calității",
       "Metalurgie"
     ],
-    "matchPercentage": 86,
-    "reason": "Specialist de calitate in metalurgie si mecanica, potrivire directa cu controlul calitatii si caracterizarea materialelor metalice, la nivel de specialist entry/junior."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-mecanic/492",
-    "title": "Inginer Mecanic",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:46:47.039Z",
-    "status": "scraped",
-    "tags": [
-      "sudare",
-      "caracterizare materiale"
-    ],
-    "matchPercentage": 86,
-    "reason": "Inginer la institut de cercetare in sudura si incercari de materiale, potrivire directa cu domeniul si nivelul de intrare."
+    "matchPercentage": 88,
+    "reason": "Post de specialist în controlul calității pe metalurgie/mecanică, potrivit direct cu competențele de control al calității și caracterizarea materialelor."
   },
   {
     "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
@@ -58,99 +57,79 @@
       "Belciugatele, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:57:40.565Z",
+    "date": "2026-10-07T15:14:04.937Z",
     "status": "scraped",
     "tags": [
-      "Proiectare si fabricatie asistata de calculator",
-      "Proiectare asistata de calculator"
+      "Sisteme cu comanda numerica",
+      "Tehnologii de procesare a materialelor"
     ],
-    "matchPercentage": 86,
-    "reason": "Junior CAD/CAM/CNC cu studii tehnice cerute, potrivire directă cu proiectarea și fabricația asistată de calculator."
+    "matchPercentage": 88,
+    "reason": "Rol junior de programare CAD/CAM/CNC care aplică direct competențele de sisteme cu comandă numerică și tehnologii de prelucrare."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383017",
-    "title": "INGINER MECANIC",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
+    "url": "https://www.jobradar24.ro/anunt/lacatus-mecanic-cu-cunostinte-de-sudura-mig-mag-z85dzd",
+    "title": "Lăcătuș mecanic cu cunoștințe de sudură MIG-MAG",
+    "company": "AME HR SOLUTION S.R.L.",
     "location": [
-      "Timișoara, Romania"
+      "Brașov, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:06:53.167Z",
+    "date": "2026-10-07T15:19:20.756Z",
     "status": "scraped",
     "tags": [
-      "Analiza si caracterizare de laborator",
-      "Asimilarea tehnologiei de sudare"
+      "Sudare"
     ],
     "matchPercentage": 85,
-    "reason": "Inginer la institut de cercetare în sudură și încercări de materiale, nivel fără experiență, folosește direct competențele de caracterizare a materialelor și tehnologia sudării."
+    "reason": "Sudura și prelucrarea materialelor metalice se potrivesc direct competențelor."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/internship-cad",
-    "title": "Internship CAD",
-    "company": "CONTITECH FLUID AUTOMOTIVE ROMÂNIA SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/analist-calitate-142",
+    "title": "Analist laborator managementul calitatii",
+    "company": "NEVEON ROMANIA S.R.L.",
     "location": [
-      "Timișoara, Romania,Carei, Romania"
+      "Sibiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:52:59.209Z",
+    "date": "2026-10-07T15:19:38.860Z",
     "status": "scraped",
     "tags": [
-      "Proiectare asistata de calculator",
-      "Desen tehnic"
+      "analiza laborator",
+      "controlul calitatii"
+    ],
+    "matchPercentage": 84,
+    "reason": "Analist de laborator pentru managementul calitatii intr-un producator de materiale, potrivit direct cu analiza de laborator si controlul calitatii."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3403641",
+    "title": "LACATUS CONSTRUCTII METALICE SI NAVALE",
+    "company": "VARD ELECTRO ROMANIA S.R.L.",
+    "location": [
+      "Braila, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:27:29.699Z",
+    "status": "scraped",
+    "tags": [
+      "Metalurgie"
     ],
     "matchPercentage": 80,
-    "reason": "Internship CAD, nivel perfect pentru student, folosește direct competența de proiectare asistată de calculator."
+    "reason": "Confecții metalice și prelucrare relevant pentru metalurgie."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-maistru-specialitate-mecanica-sudura-2",
-    "title": "Inginer/Maistru specialitate Mecanica/Sudura",
-    "company": "TOP OIL INTER SRL",
+    "url": "https://8ore.ro/locuri-de-munca/angajam-confectii-metalice-vopsitor",
+    "title": "Angajam/Confectii metalice/Vopsitor",
+    "company": "ZEBRA EFFECT METAL S.R.L.",
     "location": [
-      "Constanta, Romania"
+      "Sighetu Marmatiei, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:02:11.363Z",
+    "date": "2026-10-07T15:26:36.830Z",
     "status": "scraped",
     "tags": [
-      "tehnologie sudare",
-      "rezistenta materialelor"
+      "Tratamente de suprafata"
     ],
-    "matchPercentage": 76,
-    "reason": "Post de inginer/maistru pe mecanica si sudura, domeniu relevant pentru tehnologia materialelor, nivel entry/mid."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectant-mecanic-cad_hunedoara_5373/",
-    "title": "Inginer Proiectant Mecanic CAD",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Hunedoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:04:49.648Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare asistata de calculator",
-      "Rezistenta materialelor"
-    ],
-    "matchPercentage": 74,
-    "reason": "Proiectare mecanică CAD în medi industrial, folosește direct competențele de CAD și desen tehnic la nivel entry/mid."
-  },
-  {
-    "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
-    "title": "Programator CAD/CAM",
-    "company": "DYNAMIC DESIGN EUROPE RO S.R.L.",
-    "location": [
-      "Belciugatele, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:05:09.813Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare si fabricatie asistata de calculator",
-      "Proiectare asistata de calculator"
-    ],
-    "matchPercentage": 72,
-    "reason": "Programare CAD/CAM intră direct în competențele de proiectare și fabricație asistată de calculator, iar nivelul pare entry-level."
+    "matchPercentage": 80,
+    "reason": "Prelucrarea confecțiilor metalice și tratamentele de suprafață sunt relevante."
   },
   {
     "url": "https://oferimdemunca.ro/job/inginer-designer-3d-junior-senior-proiectare-mecanica-cad-autocad-solidworks-rhino/",
@@ -160,82 +139,30 @@
       "Apahida, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T16:50:21.754Z",
+    "date": "2026-10-07T15:10:02.654Z",
     "status": "scraped",
     "tags": [
-      "CAD",
+      "Proiectare asistata de calculator",
       "Desen tehnic"
     ],
-    "matchPercentage": 72,
-    "reason": "Design 3D cu AutoCAD/SolidWorks, explicit deschis nivelului începător, folosește direct competențele de proiectare asistată de calculator."
+    "matchPercentage": 78,
+    "reason": "Inginer/Designer 3D cu nivel junior disponibil, potrivit pentru CAD și desen tehnic ingineresc."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-solidworks-confectii-metalice-4",
-    "title": "Inginer mecanic SOLIDWORKS - confectii metalice",
-    "company": "DIGITAL TELECOMMS SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383918",
+    "title": "TEHNICIAN MECANIC",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
     "location": [
-      "Bucuresti, Romania"
+      "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:49:48.039Z",
+    "date": "2026-10-07T15:21:03.744Z",
     "status": "scraped",
     "tags": [
-      "CAD",
-      "Desen tehnic"
+      "Rezistenta materialelor"
     ],
-    "matchPercentage": 70,
-    "reason": "Proiectare mecanică SOLIDWORKS pentru confecții metalice, potrivită pentru competențele de CAD și desen tehnic, nivel junior-mid."
-  },
-  {
-    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
-    "title": "ASAM angajeaza inginer proiectant Solidworks",
-    "company": "ASAM SA",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T16:50:26.564Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 70,
-    "reason": "Inginer proiectant SolidWorks - rol de proiectare tehnică direct compatibil cu competențele de CAD și desen tehnic, nivel entry."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269847/Bosch-Romania/Working-Student---3D-Printing",
-    "title": "Working Student - 3D Printing",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Blaj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:02:09.476Z",
-    "status": "scraped",
-    "tags": [
-      "Procesare materiale",
-      "Fabricație asistată"
-    ],
-    "matchPercentage": 70,
-    "reason": "Impressionare aditiva (3D printing) este un procedeu direct de procesare si fabricatie a materialelor, potrivit nivelului de student."
-  },
-  {
-    "url": "https://cariere.porr.ro/joburi-porr/joburi/9087",
-    "title": "Specialist în domeniul calității",
-    "company": "PORR CONSTRUCT SRL",
-    "location": [
-      "Casimcea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:01:24.213Z",
-    "status": "scraped",
-    "tags": [
-      "Asigurarea calitatii",
-      "Alegerea materialelor"
-    ],
-    "matchPercentage": 68,
-    "reason": "Recepția și inspectarea calitativă a materialelor livrate plus gestionarea certificatelor de calitate folosesc direct competențele de asigurarea calității, iar experiența de 1-3 ani este la nivelul acceptat."
+    "matchPercentage": 75,
+    "reason": "Rol tehnic mecanic relevant pentru testarea și echipamentele din domeniul materialelor."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/desenator-tehnic-proiectant-solidworks/1986923",
@@ -248,45 +175,95 @@
     "date": "2026-10-02T14:29:49.626Z",
     "status": "scraped",
     "tags": [
-      "CAD",
+      "Proiectare asistata de calculator",
       "Desen tehnic"
     ],
-    "matchPercentage": 68,
-    "reason": "Proiectare SolidWorks și desen de execuție pentru tablă, potrivit pentru CAD și desen tehnic; cerința de 1 an experiență e acceptabilă."
+    "matchPercentage": 75,
+    "reason": "Proiectare SolidWorks și desene de execuție la nivel junior (minim 1 an), aliniat competențelor de CAD și desen tehnic."
   },
   {
-    "url": "https://usamvjobs.ro/job/dragoesti-ialomita-2-angajam-laborant-analize-fizico-chimice-dragoesti-ialomita-2/",
-    "title": "Angajam laborant analize fizico-chimice - Dragoesti, Ialomita",
-    "company": "AGROSERV MĂRIUŢA S.A.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-autocad-32",
+    "title": "Desenator AutoCAD",
+    "company": "MEISER ROMANIA SRL",
     "location": [
-      "Romania"
+      "Oradea, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T15:04:54.107Z",
-    "status": "scraped",
-    "tags": [
-      "Analiza de laborator",
-      "Controlul calitatii"
-    ],
-    "matchPercentage": 66,
-    "reason": "Analize fizico-chimice de laborator pentru controlul calitatii, la nivel entry-level, foloseste direct competentele tale de analiza si caracterizare de laborator."
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF292336Y-cad-engineer",
-    "title": "CAD Engineer",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Jucu, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:58:17.814Z",
+    "date": "2026-10-07T15:10:05.749Z",
     "status": "scraped",
     "tags": [
       "Proiectare asistata de calculator",
-      "Proiectare si fabricatie asistata de calculator"
+      "Desen tehnic"
+    ],
+    "matchPercentage": 68,
+    "reason": "Desenator AutoCAD entry-level la un producător de produse metalice, folosind direct competența de CAD."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-proiectare-industriala-cad-3d-4",
+    "title": "Inginer Mecanic – Proiectare Industriala CAD 3D",
+    "company": "SCM AUTOMATION TECHNOLOGY SRL",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:17:19.870Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare asistata de calculator",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 66,
+    "reason": "Proiectare industrială CAD 3D se bazează pe competențele mele de CAD și desen tehnic ingineresc."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectant-mecanic-cad_hunedoara_5373/",
+    "title": "Inginer Proiectant Mecanic CAD",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Hunedoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:11:21.630Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare asistata de calculator",
+      "Desen tehnic"
     ],
     "matchPercentage": 65,
-    "reason": "Inginer CAD într-un mediu industrial, folosește competența de proiectare asistată de calculator, deși descrierea nu clarifică nivelul exact."
+    "reason": "Proiectare mecanică CAD într-un departament tehnic, potrivit pentru competențele de CAD și dimensionare mecanică."
+  },
+  {
+    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
+    "title": "ASAM angajeaza inginer proiectant Solidworks",
+    "company": "ASAM SA",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:18:44.212Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare asistata de calculator"
+    ],
+    "matchPercentage": 65,
+    "reason": "Inginer proiectant SolidWorks intră direct în competența de proiectare asistată de calculator din plan."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/cad-cam-engineer-11",
+    "title": "CAD/CAM ENGINEER",
+    "company": "AGE COMFORTABLY G&amp;G S.R.L.",
+    "location": [
+      "Strada Dozsa Gyorgy, 455100 Cehu Silvaniei, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:20:01.047Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare asistata de calculator",
+      "Tehnologii de procesare a materialelor"
+    ],
+    "matchPercentage": 62,
+    "reason": "Rolul CAD/CAM folosește direct competențele de proiectare asistată și tehnologii de prelucrare, deși lipsesc detalii despre nivel."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
@@ -299,214 +276,10 @@
     "date": "2026-10-06T15:04:18.446Z",
     "status": "scraped",
     "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rol de proiectare/desen AutoCAD pentru sisteme din aluminiu/PVC, folosește direct competențele de CAD și desen tehnic."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-autocad-32",
-    "title": "Desenator AutoCAD",
-    "company": "MEISER ROMANIA SRL",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:56:11.931Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 65,
-    "reason": "Realizarea desenelor tehnice și a planșelor de execuție în AutoCAD folosește direct competențele de CAD și desen tehnic, nivel entry."
-  },
-  {
-    "url": "https://www.lugera.ro/jobex/public/ro/job-details/analist-calitate_7159.html",
-    "title": "Analist Calitate",
-    "company": "LUGERA OUTSOURCING S.R.L.",
-    "location": [
-      "Popesti Leordeni, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:07:34.342Z",
-    "status": "scraped",
-    "tags": [
-      "Asigurarea calitatii",
-      "Alegerea materialelor"
-    ],
-    "matchPercentage": 64,
-    "reason": "Controlul calității materialelor metalice și inspecția în procesul de fabricație folosesc direct competențele de asigurarea calității, deși se cer 3 ani experiență la limita nivelului acceptat."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/dessinateur-desenator-autocad-1",
-    "title": "Dessinateur (Desenator) AutoCAD",
-    "company": "FRANCE BUSINESS TRADING S.R.L.",
-    "location": [
-      "Bulevardul Grivitei, Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:03:52.447Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 64,
-    "reason": "Desenator AutoCAD - sarcina principală este întocmirea desenelor tehnice, competență directă din planul de învățământ."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-lansare-in-fabricatie-16",
-    "title": "Inginer lansare in fabricatie",
-    "company": "VDL - ROTECH SRL",
-    "location": [
-      "Arad, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:09:14.337Z",
-    "status": "scraped",
-    "tags": [
-      "Procesare materiale",
-      "Fabricatie asistata"
-    ],
-    "matchPercentage": 63,
-    "reason": "Inginerie de proces in productie, utilizand competente de tehnologie si procesare a materialelor si proiectare asistata, la nivel entry-level."
-  },
-  {
-    "url": "https://multijobs.ro/job/desenator-tehnic-proiectant-autocad-2d/1411",
-    "title": "Desenator tehnic/proiectant autocad 2D",
-    "company": "FLAROM ADVERTISING SRL",
-    "location": [
-      "Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:48:18.010Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 63,
-    "reason": "Proiectare 2D AutoCAD și desen tehnic - competențe tehnice directe, deși domeniul de aplicare e mai general."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
-    "title": "Analist Controlul Calitatii",
-    "company": "MESSER ROMANIA GAZ SRL",
-    "location": [
-      "Resita, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:05:02.276Z",
-    "status": "scraped",
-    "tags": [
-      "Tehnici de analiza",
-      "Asigurarea calitatii"
-    ],
-    "matchPercentage": 62,
-    "reason": "Analize de laborator, calibrarea echipamentelor analitice și buletinele de analiză se potrivesc parțial cu tehnicile de analiză și controlul calității, deși se prioritizează studiile de farmacie."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-tehnic-cad-arhitectura-si-structura",
-    "title": "Desenator tehnic CAD arhitectura si structura",
-    "company": "BOGDY SPEDITION BUSINESS S.R.L.",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:07:54.008Z",
-    "status": "scraped",
-    "tags": [
       "Proiectare asistata de calculator",
-      "Desen tehnic"
+      "Materiale polimerice"
     ],
     "matchPercentage": 62,
-    "reason": "Desenator tehnic CAD pentru structură, folosește competența de proiectare asistată de calculator și desen tehnic, dar domeniul (arhitectură) e doar parțial relevant."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/inginer-tehnic-proiectare-cad-457wve",
-    "title": "Inginer Tehnic HVAC – Proiectare CAD",
-    "company": "ROVA TECH INSTALL S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:01:04.225Z",
-    "status": "scraped",
-    "tags": [
-      "Proiectare asistata de calculator",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 62,
-    "reason": "Proiectare CAD și desen tehnic sunt competențe directe, dar domeniul HVAC este doar conex cu ingineria materialelor."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139009890-cad-engineer",
-    "title": "CAD Engineer",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-06T13:08:08.183Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 62,
-    "reason": "Folosește direct CAD și desen tehnic tehnic, dar în planificare de construcții/facility management, nu în ingineria materialelor; nivel mid acceptabil."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/sampling-technician-student",
-    "title": "Sampling technician (Student)",
-    "company": "WEBASTO ROMANIA SRL",
-    "location": [
-      "Arad, RO, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:06:27.019Z",
-    "status": "scraped",
-    "tags": [
-      "Control calitate",
-      "Caracterizare materiale"
-    ],
-    "matchPercentage": 62,
-    "reason": "Activitate de prelevare de probe pentru incercari si control al calitatii, relevanta pentru caracterizarea si analiza materialelor la nivel de student."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-tehnic-autocad-8",
-    "title": "Desenator tehnic autocad",
-    "company": "INFRA &amp; CIVIL CONSULTING SRL",
-    "location": [
-      "București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:47:37.430Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 61,
-    "reason": "Desen tehnic AutoCAD este o competență relevantă, dar aplicația este în construcții civile, domeniu doar parțial potrivit."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-tehnic-proiectare-constructii-autocad-9",
-    "title": "Desenator Tehnic proiectare constructii – AutoCAD",
-    "company": "ATOMEDICAL VEST SRL",
-    "location": [
-      "Ploiesti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T16:52:14.678Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 61,
-    "reason": "Desen tehnic AutoCAD pentru proiectare este o competență directă, însă domeniul construcțiilor e doar parțial relevant."
+    "reason": "Programare CAD pentru produse din aluminiu și PVC, conectat la competențele de CAD și materiale polimerice."
   }
 ]
