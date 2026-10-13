@@ -1,37 +1,88 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-proces-tehnologic-mase-plastice",
-    "title": "Specialist Proces Tehnologic-Mase Plastice",
-    "company": "FTF PLASTICS S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3412446",
+    "title": "ASISTENT DE CERCETARE ÎN STIINTA MATERIALELOR",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
     "location": [
-      "Comuna Filipestii de Targ, Romania"
+      "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:10:13.716Z",
+    "date": "2026-10-12T17:28:35.556Z",
     "status": "scraped",
     "tags": [
-      "materiale polimerice",
-      "procesare materiale"
+      "stiinta materialelor",
+      "caracterizare"
     ],
-    "matchPercentage": 85,
-    "reason": "Proces tehnologic pentru mase plastice combina direct competentele de materiale polimerice si procesare a materialelor."
+    "matchPercentage": 95,
+    "reason": "Asistent de cercetare in stiinta materialelor la institut de sudare/incercari, universitar si sub 3 ani experienta, potrivire directa."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-de-mediu-junior-2",
-    "title": "Inginer de mediu Junior",
-    "company": "FCC ENVIRONMENT ROMÂNIA SRL",
+    "url": "https://www.irum.ro/posturi-vacante/inginer-turnatorie/",
+    "title": "INGINER TURNATORIE",
+    "company": "IRUM SA",
     "location": [
-      "Soseaua Fabrica de Glucoza 9B, 077190 Bucuresti, Romania"
+      "Reghin, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:08:32.345Z",
+    "date": "2026-10-12T17:29:17.572Z",
     "status": "scraped",
     "tags": [
-      "protectia mediului",
-      "impact industrial"
+      "Turnatorie",
+      "Tehnologii prelucrare"
+    ],
+    "matchPercentage": 95,
+    "reason": "Rol de inginer turnatorie care corespunde direct cu proiectarea tehnologica a proceselor de turnare si prelucrarea materialelor."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3412470",
+    "title": "CERCETATOR ÎN STIINTA MATERIALELOR",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:28:35.556Z",
+    "status": "scraped",
+    "tags": [
+      "stiinta materialelor",
+      "cristalografie"
+    ],
+    "matchPercentage": 90,
+    "reason": "Cercetator in stiinta materialelor la institut specializat, nivel master cu putina experienta."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/internship-cad",
+    "title": "Internship CAD",
+    "company": "CONTITECH FLUID AUTOMOTIVE ROMÂNIA SRL",
+    "location": [
+      "Timișoara, Romania,Carei, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:33.776Z",
+    "status": "scraped",
+    "tags": [
+      "CAD",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 90,
+    "reason": "Internship CAD se potriveste direct cu competenta de Proiectare Asistata de Calculator din planul de invatamant."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3412459",
+    "title": "ASISTENT DE CERCETARE ÎN TEHNOLOGIE SI ECHIPAMENTE NECONVENTIONALE",
+    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
+    "location": [
+      "Timișoara, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:28:35.556Z",
+    "status": "scraped",
+    "tags": [
+      "tehnologii procesare",
+      "cercetare experimentala"
     ],
     "matchPercentage": 85,
-    "reason": "Inginer de mediu junior, se potriveste direct pe protecția mediului și impactul industrial."
+    "reason": "Asistent de cercetare in tehnologii si echipamente neconventionale, nivel master, legat de procesarea materialelor."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-calitate-metalurgie-mecanica",
@@ -48,126 +99,109 @@
       "metalurgie"
     ],
     "matchPercentage": 82,
-    "reason": "Specialist calitate in metalurgie/mecanica, foloseste direct competentele de specialitate."
+    "reason": "Specialist calitate in metalurgie/mecanica foloseste direct competentele de control al calitatii si caracterizarea materialelor, nivel de inceput."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3388445",
-    "title": "OPERATOR CONTROL NEDISTRUCTIV",
-    "company": "KRONSTEF SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-laborator-teste-vopsea-1",
+    "title": "Tehnician laborator teste vopsea",
+    "company": "ARSIL TECH SRL",
     "location": [
-      "Resita, Romania"
+      "Codlea, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:04:52.768Z",
+    "date": "2026-10-12T17:32:16.724Z",
     "status": "scraped",
     "tags": [
-      "caracterizare materiale",
-      "control calitate"
+      "caracterizare laborator",
+      "materiale polimerice"
     ],
-    "matchPercentage": 82,
-    "reason": "Operator control nedistructiv, caracterizare si testare a materialelor, nivel entry cu sub 3 ani experienta."
+    "matchPercentage": 75,
+    "reason": "Tehnician de laborator pentru teste fizico-chimice pe vopseluri (materiale polimerice) cu studii in chimie/inginerie chimica/materiale, potrivit nivelului de inceput."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272267/Bosch-Romania/Working-Student-Laboratory-Support-(Chemical-Testing)",
-    "title": "Working Student Laboratory Support (Chemical Testing)",
-    "company": "BOSCH REXROTH S.R.L.",
+    "url": "https://www.randstad.ro/locuri-de-munca/inginer-proiectant-mecanic-cad_hunedoara_5373/",
+    "title": "Inginer Proiectant Mecanic CAD",
+    "company": "RANDSTAD ROMANIA SRL",
     "location": [
-      "Romania"
+      "Hunedoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:07:35.537Z",
-    "status": "scraped",
-    "tags": [
-      "analiza de laborator",
-      "caracterizare materiale"
-    ],
-    "matchPercentage": 82,
-    "reason": "Working student laborator testare chimică, foloseste direct analiza și caracterizarea de laborator."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3402722",
-    "title": "TEHNICIAN ANALIST CALITATE",
-    "company": "SIMEA SIBIU SRL",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:09:14.745Z",
-    "status": "scraped",
-    "tags": [
-      "controlul calitatii",
-      "caracterizare materiale"
-    ],
-    "matchPercentage": 78,
-    "reason": "Tehnician analist calitate foloseste direct competentele de control al calitatii si caracterizare a materialelor."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-calitate-ppap-si-imds-hunedoara",
-    "title": "Specialist calitate PPAP si IMDS - Hunedoara",
-    "company": "SCHIEFFER INDUSTRIES ROMANIA SRL",
-    "location": [
-      "Hunedoara,Lugoj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:08:41.866Z",
-    "status": "scraped",
-    "tags": [
-      "managementul calitatii",
-      "materiale"
-    ],
-    "matchPercentage": 67,
-    "reason": "Specialist calitate PPAP/IMDS in productie automotive, cu raportare de date despre materiale."
-  },
-  {
-    "url": "https://jobs.bosch.com/en/job/REF294205K-working-student-mechanical-field",
-    "title": "Working Student Mechanical Field",
-    "company": "BOSCH REXROTH S.R.L.",
-    "location": [
-      "Blaj, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:09:28.775Z",
+    "date": "2026-10-12T14:22:26.646Z",
     "status": "scraped",
     "tags": [
       "CAD",
-      "rezistenta materialelor"
+      "Rezistenta materialelor"
     ],
     "matchPercentage": 65,
-    "reason": "Working student domeniu mecanic, potrivire parțială pe CAD și rezistența materialelor/dimensionare."
+    "reason": "Inginer proiectant mecanic foloseste CAD si dimensionare mecanica, potrivire partiala cu profilul."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/ims-specialist-iso-9001-14001-45001",
-    "title": "IMS Specialist (ISO 9001,14001,45001)",
-    "company": "SSE EXPLO ROMANIA SRL",
+    "url": "https://oferimdemunca.ro/job/inginer-designer-3d-junior-senior-proiectare-mecanica-cad-autocad-solidworks-rhino/",
+    "title": "INGINER / DESIGNER 3D (Junior–Senior) – Proiectare mecanică | CAD | Autocad / SolidWorks / Rhino",
+    "company": "NUINTEK EUROPE  SRL",
     "location": [
-      "Remote, Romania"
+      "Apahida, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:57:37.435Z",
+    "date": "2026-10-11T14:50:53.538Z",
     "status": "scraped",
     "tags": [
-      "protectia mediului",
-      "managementul calitatii"
+      "CAD",
+      "Desen tehnic"
     ],
-    "matchPercentage": 63,
-    "reason": "Specialist sisteme de management integrat (ISO 14001 mediu, 9001 calitate), partial relevant."
+    "matchPercentage": 65,
+    "reason": "Inginer/designer 3D proiectare mecanica la nivel junior, foloseste CAD si desen tehnic."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383918",
-    "title": "TEHNICIAN MECANIC",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-solidworks-confectii-metalice-4",
+    "title": "Inginer mecanic SOLIDWORKS - confectii metalice",
+    "company": "DIGITAL TELECOMMS SRL",
     "location": [
-      "Timișoara, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:47:25.379Z",
+    "date": "2026-10-10T14:18:14.327Z",
     "status": "scraped",
     "tags": [
-      "Sudare",
-      "Analiza laborator"
+      "CAD",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 64,
+    "reason": "Inginer mecanic SolidWorks pentru confectii metalice, proiectare mecanica cu CAD."
+  },
+  {
+    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
+    "title": "ASAM angajeaza inginer proiectant Solidworks",
+    "company": "ASAM SA",
+    "location": [
+      "Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:27:36.070Z",
+    "status": "scraped",
+    "tags": [
+      "CAD",
+      "Desen tehnic"
     ],
     "matchPercentage": 63,
-    "reason": "Tehnician mecanic la institut de sudura si incercari de materiale, entry-level cu tangenta pe testare si sudura."
+    "reason": "Inginer proiectant SolidWorks, rol de proiectare mecanica ce foloseste CAD si desen tehnic."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-productie-responsabil-unitate-productie-2",
+    "title": "Inginer Productie / Responsabil Unitate Productie",
+    "company": "TEHNO WORLD SRL",
+    "location": [
+      "Baia, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:34:18.456Z",
+    "status": "scraped",
+    "tags": [
+      "procesare materiale",
+      "materiale constructii"
+    ],
+    "matchPercentage": 62,
+    "reason": "Inginer de productie intr-o companie de materiale de constructii (CRH), cu aplicarea competentelor de tehnologii de procesare si control al calitatii materialelor."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/coordonator-suport-audit-iso-junior-auditor-iso",
@@ -180,42 +214,61 @@
     "date": "2026-10-11T15:06:03.705Z",
     "status": "scraped",
     "tags": [
-      "managementul calitatii"
+      "managementul calitatii",
+      "ISO"
     ],
     "matchPercentage": 62,
-    "reason": "Auditor junior ISO pentru sisteme de management al calitatii, nivel potrivit."
+    "reason": "Junior auditor ISO, nivel potrivit, foloseste competente de management al calitatii."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271257/Bosch-Romania/Working-Student-in-Packaging-Design-Engineer-Team",
-    "title": "Working Student in Packaging Design Engineer Team",
-    "company": "BOSCH REXROTH S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-proiectant-autocad-2d-3d",
+    "title": "Inginer proiectant Autocad 2D/3D",
+    "company": "AIRGROUP INDUSTRIES SRL",
     "location": [
-      "Romania"
+      "Jilava, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:06:22.248Z",
+    "date": "2026-10-09T15:01:16.870Z",
     "status": "scraped",
     "tags": [
-      "materiale polimerice",
-      "CAD"
+      "CAD",
+      "Desen tehnic"
     ],
     "matchPercentage": 62,
-    "reason": "Working student design ambalaje, potrivire parțială pe materiale polimerice sustenabile și CAD."
+    "reason": "Inginer proiectant AutoCAD 2D/3D in industria metalica, foloseste CAD si desen tehnic."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/auditor-sisteme-de-management-iso",
-    "title": "Auditor sisteme de management- ISO",
-    "company": "QSCERT SRL",
+    "url": "https://eaton.eightfold.ai/careers/job/687238046001",
+    "title": "Tooling Specialist - Project &amp; Manufacturing Site Support",
+    "company": "EATON ELECTRIC SRL",
     "location": [
-      "Brașov, Romania"
+      "Busag, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:51:11.279Z",
+    "date": "2026-10-12T17:34:20.092Z",
     "status": "scraped",
     "tags": [
-      "managementul calitatii"
+      "alegerea materialelor",
+      "tratamente termice"
     ],
     "matchPercentage": 60,
-    "reason": "Auditor sisteme de management ISO, inginer tehnic cu pana la 2 ani experienta."
+    "reason": "Specialist tooling (matrite, forme, dispozitive) implica alegerea materialelor, tratamente termice si procesare, potrivire partiala cu ingineria materialelor."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3407782",
+    "title": "CONTROLOR CALITATE",
+    "company": "ELEKTROMODUL ROMANIA S.R.L.",
+    "location": [
+      "Cristesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:36.915Z",
+    "status": "scraped",
+    "tags": [
+      "managementul calitatii",
+      "controlul calitatii"
+    ],
+    "matchPercentage": 60,
+    "reason": "Controlor calitate, nivel entry cu sub 3 ani experienta, foloseste competente de asigurare a calitatii."
   }
 ]
