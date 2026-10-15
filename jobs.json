@@ -1,39 +1,5 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3412446",
-    "title": "ASISTENT DE CERCETARE ÎN STIINTA MATERIALELOR",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T15:53:44.610Z",
-    "status": "scraped",
-    "tags": [
-      "stiinta materialelor",
-      "cercetare experimentala"
-    ],
-    "matchPercentage": 90,
-    "reason": "Asistent de cercetare in stiinta materialelor la institut de cercetare, studii superioare si sub 3 ani experienta, potrivire directa."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3412470",
-    "title": "CERCETATOR ÎN STIINTA MATERIALELOR",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T15:53:44.610Z",
-    "status": "scraped",
-    "tags": [
-      "stiinta materialelor",
-      "caracterizare structurala"
-    ],
-    "matchPercentage": 88,
-    "reason": "Cercetator in stiinta materialelor cu studii superioare si sub 3 ani experienta, domeniu direct relevant."
-  },
-  {
     "url": "https://www.irum.ro/posturi-vacante/inginer-turnatorie/",
     "title": "INGINER TURNATORIE",
     "company": "IRUM SA",
@@ -41,48 +7,65 @@
       "Reghin, Romania"
     ],
     "salary": null,
-    "date": "2026-10-12T17:29:17.572Z",
+    "date": "2026-10-14T13:19:48.036Z",
     "status": "scraped",
     "tags": [
-      "turnare",
-      "calitate"
+      "Turnare",
+      "Tehnologii procesare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Inginer turnatorie cu responsabilitati de tehnologie, control de calitate si procese de turnare, direct in domeniul specializarii."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/supervizor-laborator-tratamente-termice",
+    "title": "Supervizor Laborator Tratamente Termice",
+    "company": "VCST AUTOMOTIVE PRODUCTION ALBA SRL",
+    "location": [
+      "Calea Ciugudului 9, Alba Iulia, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-14T13:40:46.468Z",
+    "status": "scraped",
+    "tags": [
+      "Tratamente termice",
+      "Caracterizarea materialelor"
+    ],
+    "matchPercentage": 85,
+    "reason": "Activitatea de laboratoare cu tratamente termice corespunde direct specializarii de Ingineria Materialelor."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-laborator/34",
+    "title": "Tehnician laborator",
+    "company": "JORIS IDE SRL",
+    "location": [
+      "Buzias, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-14T13:41:16.730Z",
+    "status": "scraped",
+    "tags": [
+      "caracterizare laborator",
+      "control calitate"
     ],
     "matchPercentage": 82,
-    "reason": "Inginer turnatorie cu responsabilitati de tehnologii de turnare, control al calitatii pieselor si documentatie tehnologica."
+    "reason": "Tehnician laborator la un producator de materiale de constructii pe baza de PVC presupune testarea si controlul calitatii materialelor, direct in domeniu si la nivel de intrare."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271860/Siemens-Energy/NDT-Inspector",
-    "title": "NDT Inspector",
-    "company": "SIEMENS ENERGY S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3388445",
+    "title": "OPERATOR CONTROL NEDISTRUCTIV",
+    "company": "KRONSTEF SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Resita, Romania"
     ],
     "salary": null,
-    "date": "2026-10-13T16:06:31.292Z",
+    "date": "2026-10-14T13:39:16.693Z",
     "status": "scraped",
     "tags": [
-      "Tehnici analiza",
-      "Sudare"
+      "Control nedistructiv",
+      "Controlul calitatii"
     ],
-    "matchPercentage": 80,
-    "reason": "Inspector NDT în energie folosește direct tehnicile de analiză nedistructivă și caracterizare a materialelor și îmbinărilor sudate."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-calitate-metalurgie-mecanica",
-    "title": "Specialist Calitate Metalurgie /Mecanica",
-    "company": "ROMCONTROL SA",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T15:53:55.766Z",
-    "status": "scraped",
-    "tags": [
-      "Controlul calitatii",
-      "Metalurgie"
-    ],
-    "matchPercentage": 80,
-    "reason": "Specialist calitate in metalurgie/mecanica, foloseste direct competente de control al calitatii si caracterizare a materialelor."
+    "matchPercentage": 75,
+    "reason": "Controlul nedistructiv este relevant pentru caracterizarea si controlul calitatii materialelor, nivelul cerut fiind sub 3 ani."
   },
   {
     "url": "https://multijobs.ro/job/inginer-mecanic/492",
@@ -92,251 +75,115 @@
       "Timișoara, Romania"
     ],
     "salary": null,
-    "date": "2026-10-13T15:38:16.525Z",
+    "date": "2026-10-14T13:26:32.794Z",
     "status": "scraped",
     "tags": [
       "sudare",
-      "analiza materiale"
+      "incercari materiale"
     ],
-    "matchPercentage": 80,
-    "reason": "Inginer la institut de cercetare in sudare si incercari de materiale, foloseste direct competente de analiza si caracterizare a materialelor."
+    "matchPercentage": 74,
+    "reason": "Inginer la institut de cercetare în sudură și încercări de materiale, domeniu direct relevant, nivel entry/junior."
   },
   {
-    "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3934",
-    "title": "Inginer Laborator Măsuratori (Middle Level)",
-    "company": "PREH ROMANIA SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-controlul-calitatii-28",
+    "title": "Inginer Controlul Calității",
+    "company": "BRIDGENG CONSTRUCTION S.R.L.",
     "location": [
-      "Ghimbav, Romania"
+      "Strada Stefan cel Mare 152, Sibiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-13T16:06:44.013Z",
+    "date": "2026-10-14T13:41:33.799Z",
     "status": "scraped",
     "tags": [
-      "Tehnici de masurare",
-      "Controlul calitatii"
+      "Controlul calitatii",
+      "Tehnici de analiza"
     ],
-    "matchPercentage": 72,
-    "reason": "Inginer de laborator de măsurători folosește tehnici de măsurare, caracterizare și control al calității, potrivit nivelului middle."
+    "matchPercentage": 70,
+    "reason": "Inginerie de controlul calitatii, domeniu relevant pentru competentele de analiza, masurare si asigurarea calitatii in industrie."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3412459",
-    "title": "ASISTENT DE CERCETARE ÎN TEHNOLOGIE SI ECHIPAMENTE NECONVENTIONALE",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269933/Hipo-Job-Finder/Tehnician-analiza-calitatii-(2-sau-4-schimburi)-(F/M)---Marquardt",
+    "title": "Tehnician analiza calitatii (2 sau 4 schimburi) (F/M) - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
     "location": [
-      "Timișoara, Romania"
+      "Sibiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-13T15:53:44.610Z",
+    "date": "2026-10-14T13:37:54.210Z",
     "status": "scraped",
     "tags": [
-      "sudare",
-      "materiale metalice"
+      "Controlul calitatii",
+      "Tehnici de analiza"
     ],
     "matchPercentage": 68,
-    "reason": "Asistent de cercetare in tehnologii si echipamente neconventionale (sudare) la nivel de master, potrivire partiala de domeniu."
+    "reason": "Tehnician de analiza a calitatii in productie industriala, potrivit pentru competentele de analiza si masurare si controlul calitatii."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-mecanic-solidworks-confectii-metalice-4",
-    "title": "Inginer mecanic SOLIDWORKS - confectii metalice",
-    "company": "DIGITAL TELECOMMS SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
+    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Sibiu, Romania"
     ],
     "salary": null,
-    "date": "2026-10-13T15:55:51.786Z",
+    "date": "2026-10-14T13:37:54.210Z",
     "status": "scraped",
     "tags": [
-      "CAD",
-      "Desen tehnic"
+      "Controlul calitatii",
+      "Tehnici de analiza"
     ],
     "matchPercentage": 68,
-    "reason": "Inginer mecanic SolidWorks pentru confectii metalice, combina CAD cu cunoasterea materialelor metalice."
+    "reason": "Tehnician de analiza a calitatii in productie industriala, potrivit pentru competentele de analiza si masurare si controlul calitatii."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/internship-cad",
-    "title": "Internship CAD",
-    "company": "CONTITECH FLUID AUTOMOTIVE ROMÂNIA SRL",
+    "url": "https://www.leohr.ro/jobs/specialist-proces-sudura/323/",
+    "title": "Specialist Proces Sudura",
+    "company": "LEOHR S.R.L.",
     "location": [
-      "Timișoara, Romania,Carei, Romania"
+      "Cateasca,jud. Arges (langa autostrada A1), Romania"
     ],
     "salary": null,
-    "date": "2026-10-13T15:59:28.892Z",
+    "date": "2026-10-14T13:20:49.636Z",
     "status": "scraped",
     "tags": [
-      "CAD",
+      "Sudare",
+      "Tehnologii procesare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Specialist procese de sudare, foloseste direct tehnologia sudarii si a procedeelor conexe studiate."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270114/Bosch-Romania/CAD-Engineer",
+    "title": "CAD Engineer",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-14T13:41:20.081Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare CAD",
       "Desen tehnic"
     ],
     "matchPercentage": 65,
-    "reason": "Internship CAD la producator de furtunuri auto din polimeri/cauciuc, foloseste desen tehnic si CAD."
+    "reason": "Inginer CAD, foloseste direct competentele de proiectare asistata de calculator si desen tehnic, nivel junior/mid."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-proiectant-autocad-2d-3d",
-    "title": "Inginer proiectant Autocad 2D/3D",
-    "company": "AIRGROUP INDUSTRIES SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/cad-cam-engineer-11",
+    "title": "CAD/CAM ENGINEER",
+    "company": "AGE COMFORTABLY G&amp;G S.R.L.",
     "location": [
-      "Jilava, Romania"
+      "Strada Dozsa Gyorgy, 455100 Cehu Silvaniei, Romania"
     ],
     "salary": null,
-    "date": "2026-10-09T15:01:16.870Z",
+    "date": "2026-10-14T13:38:37.899Z",
     "status": "scraped",
     "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 65,
-    "reason": "Inginer proiectant AutoCAD la producator metalurgic, foloseste CAD si desen tehnic."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/inginer-designer-3d-junior-senior-proiectare-mecanica-cad-autocad-solidworks-rhino/",
-    "title": "INGINER / DESIGNER 3D (Junior–Senior) – Proiectare mecanică | CAD | Autocad / SolidWorks / Rhino",
-    "company": "NUINTEK EUROPE  SRL",
-    "location": [
-      "Apahida, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T16:04:57.465Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "desen tehnic"
-    ],
-    "matchPercentage": 64,
-    "reason": "Inginer/designer 3D cu proiectare mecanica si CAD (SolidWorks/AutoCAD), nivel junior acceptat."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=1294#content",
-    "title": "Inginer constructii metalice",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T16:05:10.344Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "prelucrarea metalelor"
-    ],
-    "matchPercentage": 63,
-    "reason": "Inginer constructii metalice cu proiectare CAD si tehnologii de prelucrare a metalelor, potrivire partiala de domeniu."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/desenator-tehnic-proiectant-solidworks/1986923",
-    "title": "Desenator Tehnic / Proiectant SolidWorks",
-    "company": "KRONSTEF SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:29:49.626Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 63,
-    "reason": "Proiectant SolidWorks pentru table/cofrete metalice, foloseste CAD si desen tehnic de executie."
-  },
-  {
-    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
-    "title": "ASAM angajeaza inginer proiectant Solidworks",
-    "company": "ASAM SA",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T16:03:43.615Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
+      "Proiectare CAD",
+      "CAD/CAM"
     ],
     "matchPercentage": 62,
-    "reason": "Inginer proiectant SolidWorks, foloseste CAD si desen tehnic in proiectare mecanica."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/desenator-autocad-32",
-    "title": "Desenator AutoCAD",
-    "company": "MEISER ROMANIA SRL",
-    "location": [
-      "Oradea, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T15:53:55.766Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 62,
-    "reason": "Desenator AutoCAD la producator de produse metalice (gratare, profile), foloseste desen tehnic si CAD."
-  },
-  {
-    "url": "https://fjobs.ro/job/inginer-proiectare-mecanica-2/",
-    "title": "Inginer Proiectare Mecanică",
-    "company": "PROFESIONAL LEASING S.R.L.",
-    "location": [
-      "Bacau, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T16:04:39.630Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "desen tehnic"
-    ],
-    "matchPercentage": 62,
-    "reason": "Proiectare mecanica a echipamentelor metalice folosind CAD, desen tehnic si dimensionare mecanica."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/maintenance-technician-cad-cam-engineer-hands-on",
-    "title": "Maintenance Technician/CAD/CAM Engineer (Hands-On)",
-    "company": "THERMOFORM GETONIC SRL",
-    "location": [
-      "Drambar, Alba, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T16:05:27.323Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "CAM"
-    ],
-    "matchPercentage": 60,
-    "reason": "Rol mixt de CAD/CAM engineer in procesare materiale, foloseste partial competente de proiectare asistata."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
-    "title": "TEHNICIAN/INGINER AUTOCAD",
-    "company": "MSM ALUMINIUM &amp; PVC SYSTEMS SRL",
-    "location": [
-      "Str. Splaiul Unirii, nr. 5B, Popesti-Leordeni, Ilfov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:23:41.936Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 60,
-    "reason": "Tehnician/inginer AutoCAD pentru sisteme aluminiu/PVC, implica materiale si desen tehnic."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-laborant-in-constructii-6",
-    "title": "Tehnician/Laborant in constructii",
-    "company": "LABORATOR DE FEBRUARIE S.R.L.",
-    "location": [
-      "Dumbravita, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-13T16:05:11.714Z",
-    "status": "scraped",
-    "tags": [
-      "analiza laborator",
-      "caracterizare materiale"
-    ],
-    "matchPercentage": 60,
-    "reason": "Laborant care realizeaza analize si incercari de laborator pe materiale de constructii."
+    "reason": "Inginer CAD/CAM care valorifica proiectarea si fabricatia asistata de calculator, potrivire partiala de domeniu."
   }
 ]
