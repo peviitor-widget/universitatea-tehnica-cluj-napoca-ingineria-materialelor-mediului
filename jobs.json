@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "url": "https://romaero.com/cariere/anunt-angajare-controlor-calitate-productie-tratamente-si-acoperiri-de-suprafata/",
+    "title": "CONTROLOR CALITATE PRODUCTIE – TRATAMENTE SI ACOPERIRI DE SUPRAFATA",
+    "company": "ROMAERO SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:21.748Z",
+    "status": "scraped",
+    "tags": [
+      "ingineria suprafetelor",
+      "desen tehnic"
+    ],
+    "matchPercentage": 82,
+    "reason": "Inspecție pe tratamente și acoperiri de suprafață, cu desen tehnic și EEM, potrivite direct cu ingineria suprafețelor și caracterizarea materialelor; minim 6 luni experiență e nivel entry."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272914/Emerson/Internship-Drafter-(12-Months)",
+    "title": "Internship Drafter (12 Months)",
+    "company": "EMERSON SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:34.775Z",
+    "status": "scraped",
+    "tags": [
+      "CAD",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 82,
+    "reason": "Internship de drafting intr-o companie de inginerie, presupune desen tehnic si CAD, competente directe din planul de invatamant."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-chimist-responsabil-productie-1",
+    "title": "Inginer Chimist – Responsabil Producție",
+    "company": "ANOROM SRL",
+    "location": [
+      "Parcul Industrial Hunedoara",
+      "Hunedoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:35.604Z",
+    "status": "scraped",
+    "tags": [
+      "Materiale polimerice",
+      "Tehnologii de prelucrare"
+    ],
+    "matchPercentage": 72,
+    "reason": "Ingineria chimica si productia de materiale se potriveste partial cu competentele de dezvoltare a materialelor si tehnologii de prelucrare."
+  },
+  {
+    "url": "https://www.irum.ro/posturi-vacante/controlor-calitate-testare-utilaje-agricole/",
+    "title": "CONTROL CALITATE - TESTARE UTILAJE AGRICOLE",
+    "company": "IRUM SA",
+    "location": [
+      "Reghin",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:39.148Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calitatii",
+      "tehnici de analiza si masurare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Controlul calității prin testare, inspecție și rapoarte de neconformitate pe utilaje se potrivește parțial cu controlul și caracterizarea materialelor, la nivel entry."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
+    "title": "TEHNICIAN/INGINER AUTOCAD",
+    "company": "MSM ALUMINIUM &amp; PVC SYSTEMS SRL",
+    "location": [
+      "Str. Splaiul Unirii",
+      "nr. 5B",
+      "Popesti-Leordeni",
+      "Ilfov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:33.895Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare asistata de calculator",
+      "Materiale polimerice"
+    ],
+    "matchPercentage": 65,
+    "reason": "Foloseste CAD pentru sisteme din aluminiu si PVC, potrivindu-se cu competentele de proiectare asistata de calculator si materiale."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154007331-working-student-line-engineering-support",
+    "title": "Working Student – Line Engineering Support",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-16T11:06:47.945Z",
+    "status": "scraped",
+    "tags": [
+      "Procesare materiale",
+      "Asigurarea calitatii"
+    ],
+    "matchPercentage": 60,
+    "reason": "Suport inginerie de linie în fabrică cu procese de producție și aplicarea cunoștințelor universitare — potrivire parțială cu tehnologii de prelucrare a materialelor."
+  }
+]
