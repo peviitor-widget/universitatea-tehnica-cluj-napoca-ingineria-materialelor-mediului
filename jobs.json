@@ -1,75 +1,111 @@
 [
   {
-    "url": "https://romaero.com/cariere/anunt-angajare-controlor-calitate-productie-tratamente-si-acoperiri-de-suprafata/",
-    "title": "CONTROLOR CALITATE PRODUCTIE – TRATAMENTE SI ACOPERIRI DE SUPRAFATA",
-    "company": "ROMAERO SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:21.748Z",
-    "status": "scraped",
-    "tags": [
-      "ingineria suprafetelor",
-      "desen tehnic"
-    ],
-    "matchPercentage": 82,
-    "reason": "Inspecție pe tratamente și acoperiri de suprafață, cu desen tehnic și EEM, potrivite direct cu ingineria suprafețelor și caracterizarea materialelor; minim 6 luni experiență e nivel entry."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272914/Emerson/Internship-Drafter-(12-Months)",
-    "title": "Internship Drafter (12 Months)",
-    "company": "EMERSON SRL",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:34.775Z",
-    "status": "scraped",
-    "tags": [
-      "CAD",
-      "Desen tehnic"
-    ],
-    "matchPercentage": 82,
-    "reason": "Internship de drafting intr-o companie de inginerie, presupune desen tehnic si CAD, competente directe din planul de invatamant."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-chimist-responsabil-productie-1",
-    "title": "Inginer Chimist – Responsabil Producție",
-    "company": "ANOROM SRL",
-    "location": [
-      "Parcul Industrial Hunedoara",
-      "Hunedoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:35.604Z",
-    "status": "scraped",
-    "tags": [
-      "Materiale polimerice",
-      "Tehnologii de prelucrare"
-    ],
-    "matchPercentage": 72,
-    "reason": "Ingineria chimica si productia de materiale se potriveste partial cu competentele de dezvoltare a materialelor si tehnologii de prelucrare."
-  },
-  {
-    "url": "https://www.irum.ro/posturi-vacante/controlor-calitate-testare-utilaje-agricole/",
-    "title": "CONTROL CALITATE - TESTARE UTILAJE AGRICOLE",
+    "url": "https://www.irum.ro/posturi-vacante/inginer-turnatorie/",
+    "title": "INGINER TURNATORIE",
     "company": "IRUM SA",
     "location": [
       "Reghin",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:39.148Z",
+    "date": "2026-10-17T12:20:50.653Z",
     "status": "scraped",
     "tags": [
-      "controlul calitatii",
-      "tehnici de analiza si masurare"
+      "Procese de turnare",
+      "Controlul calitatii"
+    ],
+    "matchPercentage": 90,
+    "reason": "Inginer turnatorie: proiectare si urmarire tehnologica a proceselor de turnare, controlul calitatii si documentatie tehnica - potrivire directa cu competentele."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
+    "title": "Tehnician analize de mediu",
+    "company": "KRONSTEF SRL",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:26.394Z",
+    "status": "scraped",
+    "tags": [
+      "analiza de laborator",
+      "impact industrial asupra mediului"
+    ],
+    "matchPercentage": 80,
+    "reason": "Tehnician de analize de mediu - laborator si protectia mediului, potrivit ca nivel entry-level pentru profilul tau."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3419324",
+    "title": "Inginer tehnolog în protecția mediului",
+    "company": "OIL TERMINAL SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:38.251Z",
+    "status": "scraped",
+    "tags": [
+      "Protecția mediului",
+      "Impact industrial asupra mediului"
+    ],
+    "matchPercentage": 74,
+    "reason": "Protecția mediului și tehnologia de proces sunt în domeniul de competență, iar nivelul este entry-level fără experiență."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
+    "title": "Analist Controlul Calitatii",
+    "company": "MESSER ROMANIA GAZ SRL",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:26.529Z",
+    "status": "scraped",
+    "tags": [
+      "Caracterizare de laborator",
+      "Asigurarea calității"
+    ],
+    "matchPercentage": 72,
+    "reason": "Analiză de laborator, calibrare echipamente analitice și control al calității gazelor lichefiate folosesc direct competențele de caracterizare de laborator și management al calității."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3412401",
+    "title": "ANALIST CALITATE",
+    "company": "DELONGHI SOLAR S.R.L.",
+    "location": [
+      "Madaras",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:45.828Z",
+    "status": "scraped",
+    "tags": [
+      "Asigurarea calității",
+      "Caracterizare de laborator"
     ],
     "matchPercentage": 68,
-    "reason": "Controlul calității prin testare, inspecție și rapoarte de neconformitate pe utilaje se potrivește parțial cu controlul și caracterizarea materialelor, la nivel entry."
+    "reason": "Analiză calitate la producător de echipamente solare, entry-level sub 3 ani, relevant pentru controlul calității și caracterizarea produselor din materiale."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420445",
+    "title": "OPERATOR LA INSTALATII DE TRATAMENT TERMIC CU PROCESARE",
+    "company": "FORMEL D ROMÂNIA SRL",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:44.990Z",
+    "status": "scraped",
+    "tags": [
+      "Tratamente termice",
+      "Tehnologii de prelucrare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Tratamentul termic al materialelor este o competenta directa din planul de invatamant, iar nivelul este entry-level."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
@@ -86,27 +122,188 @@
     "date": "2026-10-16T13:03:33.895Z",
     "status": "scraped",
     "tags": [
-      "Proiectare asistata de calculator",
-      "Materiale polimerice"
+      "Proiectare CAD",
+      "Dezvoltarea de materiale polimerice"
     ],
-    "matchPercentage": 65,
-    "reason": "Foloseste CAD pentru sisteme din aluminiu si PVC, potrivindu-se cu competentele de proiectare asistata de calculator si materiale."
+    "matchPercentage": 68,
+    "reason": "Tehnician/inginer AutoCAD pentru sisteme din aluminiu și PVC, combină competențele CAD cu lucrul direct cu materiale."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154007331-working-student-line-engineering-support",
-    "title": "Working Student – Line Engineering Support",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://multijobs.ro/job/desenator-tehnic-2d-cad/1769",
+    "title": "Desenator Tehnic 2D CAD",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "România"
+      "Alba Iulia",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T11:06:47.945Z",
+    "date": "2026-10-17T12:15:42.731Z",
     "status": "scraped",
     "tags": [
-      "Procesare materiale",
-      "Asigurarea calitatii"
+      "Proiectare CAD",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 65,
+    "reason": "Desenator tehnic 2D CAD folosește direct competențele de CAD și desen tehnic, la nivel entry-level."
+  },
+  {
+    "url": "https://multijobs.ro/job/desenator-tehnic-proiectant-autocad-2d/1411",
+    "title": "Desenator tehnic/proiectant autocad 2D",
+    "company": "FLAROM ADVERTISING SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:18:53.462Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare CAD",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 65,
+    "reason": "Desenator/proiectant AutoCAD 2D, potrivește direct competențele de CAD și desen tehnic la nivel entry."
+  },
+  {
+    "url": "https://makitajobs.ro/inginer-productie/",
+    "title": "Inginer Producție",
+    "company": "MAKITA EU SRL",
+    "location": [
+      "all",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.322Z",
+    "status": "scraped",
+    "tags": [
+      "Tehnologii de procesare",
+      "Managementul calității"
+    ],
+    "matchPercentage": 62,
+    "reason": "Implementarea tehnologiilor și verificarea neconformităților în producție se bazează pe competențe de procesare a materialelor și managementul calității, la nivel entry."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/fcc-construccion/18802/inginer-controlul-calitatii-cq",
+    "title": "Inginer controlul calitatii CQ",
+    "company": "FCC CONSTRUCCION SA BARCELONA SUCURSALA BUCURESTI",
+    "location": [
+      "Lețcani",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:55.145Z",
+    "status": "scraped",
+    "tags": [
+      "Asigurarea calității",
+      "Alegerea materialelor"
+    ],
+    "matchPercentage": 62,
+    "reason": "Inginer controlul calității pe proiect de autostradă implică verificarea materialelor de construcții și a proceselor de execuție, relevant pentru controlul calității materialelor."
+  },
+  {
+    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bucharest-Romania/QA-Specialist--2-Year-Fixed-Term-Contract-_R568714",
+    "title": "QA Specialist (2-Year Fixed-Term Contract)",
+    "company": "STRYKER ROMANIA SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:12.061Z",
+    "status": "scraped",
+    "tags": [
+      "Asigurarea si managementul calitatii in industrie"
+    ],
+    "matchPercentage": 62,
+    "reason": "Rol de management al calitatii (QMS, CAPA, ISO 13485, imbunatatire continua) care se bazeaza direct pe competenta de asigurarea si managementul calitatii in industrie, la nivel entry/mid."
+  },
+  {
+    "url": "https://www.targuldecariere.ro/companii/zes-zollner-electronic/16467/analist-calitate-client",
+    "title": "Analist calitate client",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:29.752Z",
+    "status": "scraped",
+    "tags": [
+      "Asigurarea calității",
+      "Managementul calității"
     ],
     "matchPercentage": 60,
-    "reason": "Suport inginerie de linie în fabrică cu procese de producție și aplicarea cunoștințelor universitare — potrivire parțială cu tehnologii de prelucrare a materialelor."
+    "reason": "Implementarea proceselor interne de calitate în producție este parțial relevantă pentru managementul calității în industria materialelor electronice."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272322/PORR-Romania/Specialist-în-domeniul-calității",
+    "title": "Specialist în domeniul calității",
+    "company": "PORR CONSTRUCT SRL",
+    "location": [
+      "Tulcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:44.638Z",
+    "status": "scraped",
+    "tags": [
+      "Asigurarea calității",
+      "Alegerea materialelor"
+    ],
+    "matchPercentage": 60,
+    "reason": "Controlul calității în construcții presupune verificarea materialelor de construcții, relevant parțial pentru competențele de alegere și control al materialelor."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/responsabil-control-calitate-galati/",
+    "title": "Responsabil control calitate/ Galati",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "Galaţi",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:43.199Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul calitatii",
+      "Analiza de laborator"
+    ],
+    "matchPercentage": 60,
+    "reason": "Controlul calitatii este in domeniu, dar jobul pare generalist si fara continut de caracterizare a materialelor."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/inginer-tehnic-proiectare-cad-457wve",
+    "title": "Inginer Tehnic HVAC – Proiectare CAD",
+    "company": "ROVA TECH INSTALL S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:12.061Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare CAD",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 60,
+    "reason": "Proiectare CAD pentru elemente tehnice, potrivit ca junior, deși domeniul HVAC este conex specialității."
+  },
+  {
+    "url": "https://jobs.bosch.com/en/job/REF292336Y-cad-engineer",
+    "title": "CAD Engineer",
+    "company": "BOSCH REXROTH S.R.L.",
+    "location": [
+      "Jucu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:10.028Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectare CAD"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rol de CAD Engineer în mediul industrial, accesibil la nivel entry/junior, bazat pe competențele de proiectare asistată de calculator."
   }
 ]
