@@ -11,99 +11,28 @@
     "date": "2026-10-17T12:20:50.653Z",
     "status": "scraped",
     "tags": [
-      "turnare",
-      "materiale metalice"
+      "turnătorie",
+      "calitate"
     ],
-    "matchPercentage": 90,
-    "reason": "Inginer turnătorie - direct relevant pentru tehnologii de turnare și materiale metalice."
+    "matchPercentage": 88,
+    "reason": "Inginer turnătorie folosește direct competențe de procese de turnare, tehnologii și control al calității, la un nivel potrivit absolventului."
   },
   {
-    "url": "https://multijobs.ro/job/operator-la-instalatii-de-tratament-termic-cu-procesare/6671",
-    "title": "OPERATOR LA INSTALATII DE TRATAMENT TERMIC CU PROCESARE",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T11:59:55.004Z",
-    "status": "scraped",
-    "tags": [
-      "tratamente termice",
-      "prelucrare"
-    ],
-    "matchPercentage": 85,
-    "reason": "Tratament termic - direct relevant pentru competentele de tratamente termice."
-  },
-  {
-    "url": "https://multijobs.ro/job/operator-roboti-sudura/2873",
-    "title": "Operator Roboti Sudura",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:27.550Z",
-    "status": "scraped",
-    "tags": [
-      "sudare",
-      "automatizare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Operator roboti sudură - relevant pentru tehnologii de sudare și automatizare."
-  },
-  {
-    "url": "https://fjobs.ro/job/operator-turnatorie-topire-si-turnare-aluminiu-belgia-1900-eur-brut-ora/",
-    "title": "Operator turnătorie –…",
-    "company": "SILVERHAND PLUS S.R.L.",
-    "location": [
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T11:59:33.277Z",
-    "status": "scraped",
-    "tags": [
-      "turnare",
-      "prelucrare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Operator turnătorie - relevant pentru procese de turnare și prelucrare."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/",
-    "title": "lacatus confectii metalice",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-21T11:08:10.132Z",
-    "status": "scraped",
-    "tags": [
-      "prelucrare",
-      "confectii metalice"
-    ],
-    "matchPercentage": 75,
-    "reason": "Lăcătuș confecții metalice - relevant pentru prelucrare și tehnici de fabricație metalică."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
-    "title": "Working Student - Waste Management",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
+    "title": "INSPECTOR DE CALITATE",
+    "company": "AEROSTAR SA",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-21T11:31:30.699Z",
+    "date": "2026-10-22T11:19:16.454Z",
     "status": "scraped",
     "tags": [
-      "Protectia mediului",
-      "Impact industrial"
+      "managementul calității",
+      "desen tehnic"
     ],
-    "matchPercentage": 75,
-    "reason": "Working student în gestionarea deșeurilor, relevant pentru impactul industrial asupra mediului și materiale sustenabile."
+    "matchPercentage": 80,
+    "reason": "Inspectorul de calitate verifică produse și piese pe baza desenelor și specificațiilor, folosind instrumente de măsurare și managementul calității."
   },
   {
     "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
@@ -117,28 +46,28 @@
     "date": "2026-10-17T12:17:26.394Z",
     "status": "scraped",
     "tags": [
-      "analiza laborator",
+      "analize mediu",
       "protectia mediului"
     ],
-    "matchPercentage": 72,
-    "reason": "Tehnician de analize de mediu potrivit pentru competentele de analiza de laborator si identificarea impactului industrial asupra mediului."
+    "matchPercentage": 80,
+    "reason": "Analize de mediu corespund protectiei mediului si competentelor de laborator."
   },
   {
-    "url": "https://www.anuntul.ro/anunt-angajare-sudori-autorizati-in-sudura-BJbrVX",
-    "title": "Sudori autorizati in sudura oxiacetilenica si Instalatori",
-    "company": "ANUNTUL TOTAL SRL",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
+    "title": "Working Student - Waste Management",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Bucuresti",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-17T12:02:32.405Z",
+    "date": "2026-10-22T11:31:25.131Z",
     "status": "scraped",
     "tags": [
-      "sudare"
+      "Protectia mediului",
+      "impact industrial"
     ],
-    "matchPercentage": 70,
-    "reason": "Sudori autorizați - relevant pentru sudare, dar include și activități de instalare."
+    "matchPercentage": 68,
+    "reason": "Working student în managementul deșeurilor, relevant pentru protecția mediului și impactul industrial, la nivel entry."
   },
   {
     "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
@@ -148,31 +77,14 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-21T11:37:45.739Z",
+    "date": "2026-10-22T11:37:45.854Z",
     "status": "scraped",
     "tags": [
-      "industria chimica",
+      "materiale polimerice",
       "procesare materiale"
     ],
-    "matchPercentage": 68,
-    "reason": "Pozitie de inginer in industria chimica (producția de formaldehidă), relevantă parțial pentru competențele de procesare chimica si materiale polimerice, cu nivel de entry/junior."
-  },
-  {
-    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
-    "title": "INSPECTOR DE CALITATE",
-    "company": "AEROSTAR SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-21T11:20:12.367Z",
-    "status": "scraped",
-    "tags": [
-      "controlul calității",
-      "desen tehnic"
-    ],
-    "matchPercentage": 68,
-    "reason": "Inspectorul de calitate verifică produse și piese conform desenelor și specificațiilor tehnice, folosind instrumente de măsurare și documente de calitate, domeniu parțial potrivit."
+    "matchPercentage": 65,
+    "reason": "Producția de formaldehidă este în industria chimică și are legătură cu materialele polimerice, dar folosește doar parțial competențele tale de materiale."
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Controlul-Calitătii-Prefabricate-Beton",
@@ -187,10 +99,10 @@
     "status": "scraped",
     "tags": [
       "controlul calitatii",
-      "proprietati materiale"
+      "procesarea materialelor"
     ],
-    "matchPercentage": 68,
-    "reason": "Controlul calității prefabricatelor din beton, cu verificarea procesului și măsurători specifice materialelor."
+    "matchPercentage": 64,
+    "reason": "Controlul calității producției de prefabricate din beton, implică cunoașterea materialelor și verificări tehnologice."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
@@ -207,42 +119,25 @@
       "analiza laborator",
       "controlul calitatii"
     ],
-    "matchPercentage": 65,
-    "reason": "Controlul calității și analize de laborator pentru gaze lichefiate, potrivire parțială pe laborator și calitate."
+    "matchPercentage": 62,
+    "reason": "Analiză de laborator, calibrare echipamente și controlul calității în industria gazelor, potrivire parțială pe competențe analitice."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/operator-brazare-cupru-hvac-tehnician-sudura-italia_padova_5270/",
-    "title": "Operator Brazare Cupru (HVAC)/ Tehnician Sudură. Italia",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://turbomecanica.ro/job/inginer-proiectant-asigurarea-calitatii/",
+    "title": "Inginer/Proiectant asigurarea calitatii",
+    "company": "TURBOMECANICA SA",
     "location": [
-      "Padova",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-21T11:08:10.132Z",
+    "date": "2026-10-22T10:50:54.393Z",
     "status": "scraped",
     "tags": [
-      "sudare",
-      "imbinari"
+      "managementul calitatii",
+      "asigurarea calitatii"
     ],
-    "matchPercentage": 65,
-    "reason": "Sudură/brazare relevantă parțial pentru tehnologii de sudare."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156335389-working-student-in-manufacturing-engineering-support",
-    "title": "Working Student in Manufacturing Engineering Support",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-21T11:31:30.699Z",
-    "status": "scraped",
-    "tags": [
-      "Procesarea materialelor",
-      "Tehnologii de procesare"
-    ],
-    "matchPercentage": 65,
-    "reason": "Working student în suport pentru ingineria fabricației, cu aplicare parțială a cunoștințelor de procesare a materialelor."
+    "matchPercentage": 60,
+    "reason": "Inginer asigurarea calității în construcții aeronautice, folosește managementul calității dar nu direct competențele de materiale."
   }
 ]
