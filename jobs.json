@@ -11,11 +11,28 @@
     "date": "2026-10-17T12:20:50.653Z",
     "status": "scraped",
     "tags": [
-      "turnatorie",
-      "materiale metalice"
+      "turnare",
+      "metalurgie"
     ],
-    "matchPercentage": 95,
-    "reason": "Inginer turnatorie foloseste direct procesele de turnare si materiale metalice"
+    "matchPercentage": 85,
+    "reason": "Inginer turnătorie folosește direct cunoștințe de metalurgie, turnare, tehnologii și controlul calității pieselor turnate."
+  },
+  {
+    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
+    "title": "INSPECTOR DE CALITATE",
+    "company": "AEROSTAR SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-25T10:54:26.380Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calitatii",
+      "desen tehnic"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inspector calitate in aviatie verifica piese si produse dupa desene si specificatii, folosind masurari si instrumente de control."
   },
   {
     "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
@@ -29,46 +46,11 @@
     "date": "2026-10-17T12:17:26.394Z",
     "status": "scraped",
     "tags": [
-      "protectia mediului",
-      "analiza laborator"
+      "analiza laborator",
+      "protectia mediului"
     ],
-    "matchPercentage": 90,
-    "reason": "Analize de mediu directo legate de protectia mediului si analiza de laborator."
-  },
-  {
-    "url": "https://multijobs.ro/job/operator-la-instalatii-de-tratament-termic-cu-procesare/6671",
-    "title": "OPERATOR LA INSTALATII DE TRATAMENT TERMIC CU PROCESARE",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T11:59:55.004Z",
-    "status": "scraped",
-    "tags": [
-      "tratamente termice",
-      "procesare"
-    ],
-    "matchPercentage": 85,
-    "reason": "Tratament termic direct legat de competentele de tratamente termice"
-  },
-  {
-    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
-    "title": "INSPECTOR DE CALITATE",
-    "company": "AEROSTAR SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-24T10:27:39.750Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "inspectie"
-    ],
-    "matchPercentage": 80,
-    "reason": "Se potriveste direct controlului calitatii si caracterizarii materialelor."
+    "matchPercentage": 72,
+    "reason": "Tehnician de analize de mediu, cu prelevare și analiză de probe relevante pentru protecția mediului."
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Controlul-Calitătii-Prefabricate-Beton",
@@ -82,64 +64,11 @@
     "date": "2026-10-17T12:15:50.485Z",
     "status": "scraped",
     "tags": [
-      "Controlul calității",
-      "Tehnologii de procesare"
+      "controlul calității",
+      "procesarea materialelor"
     ],
-    "matchPercentage": 75,
-    "reason": "Controlul calității prefabricatelor din beton folosește direct cunoștințe de materiale și procesare."
-  },
-  {
-    "url": "https://multijobs.ro/job/operator-roboti-sudura/2873",
-    "title": "Operator Roboti Sudura",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:05:27.550Z",
-    "status": "scraped",
-    "tags": [
-      "sudare",
-      "roboti"
-    ],
-    "matchPercentage": 75,
-    "reason": "Operator roboti sudura relevant pentru sudare"
-  },
-  {
-    "url": "https://www.anuntul.ro/anunt-angajare-sudori-autorizati-in-sudura-BJbrVX",
-    "title": "Sudori autorizati in sudura oxiacetilenica si Instalatori",
-    "company": "ANUNTUL TOTAL SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:02:32.405Z",
-    "status": "scraped",
-    "tags": [
-      "sudare",
-      "autorizare"
-    ],
-    "matchPercentage": 75,
-    "reason": "Sudori autorizati relevant pentru tehnologii de sudare"
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
-    "title": "Working Student - Waste Management",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-24T10:40:08.109Z",
-    "status": "scraped",
-    "tags": [
-      "Protectia mediului",
-      "Impact industrial"
-    ],
-    "matchPercentage": 75,
-    "reason": "Rol de working student în managementul deșeurilor, relevant pentru protecția mediului și impactul industrial."
+    "matchPercentage": 70,
+    "reason": "Inginer QC pentru prefabricate din beton, cu verificarea calității materialelor și a procesului de fabricație."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3426318",
@@ -149,66 +78,49 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-24T10:37:56.907Z",
+    "date": "2026-10-25T11:01:59.192Z",
     "status": "scraped",
     "tags": [
       "materiale polimerice",
-      "tehnologii de procesare"
+      "procesare materiale"
     ],
-    "matchPercentage": 74,
-    "reason": "Inginer de producție într-o companie de materiale polimerice, cu experiență sub 3 ani, potrivit pentru procesarea materialelor."
+    "matchPercentage": 67,
+    "reason": "Inginer de producție în industria materialelor polimerice, potrivit ca nivel entry-level și relevant pentru procesarea materialelor."
   },
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/operator-brazare-cupru-hvac-tehnician-sudura-italia_padova_5270/",
-    "title": "Operator Brazare Cupru (HVAC)/ Tehnician Sudură. Italia",
-    "company": "RANDSTAD ROMANIA SRL",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
+    "title": "Analist Controlul Calitatii",
+    "company": "MESSER ROMANIA GAZ SRL",
     "location": [
-      "Padova",
+      "Resita",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T10:58:44.109Z",
+    "date": "2026-10-17T12:22:26.529Z",
     "status": "scraped",
     "tags": [
-      "sudare",
-      "brazare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Sudura/brazare relevant pentru competentele de sudare"
-  },
-  {
-    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
-    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
-    "company": "KRONOSPAN SEBES SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-24T10:45:44.163Z",
-    "status": "scraped",
-    "tags": [
-      "materiale polimerice",
-      "tehnologii de procesare"
-    ],
-    "matchPercentage": 68,
-    "reason": "Producție chimică de formaldehidă, parțial relevantă pentru industria chimică și materialele polimerice, fără cerință explicită de experiență."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/ims-specialist-iso-9001-14001-45001",
-    "title": "IMS Specialist (ISO 9001,14001,45001)",
-    "company": "SSE EXPLO ROMANIA SRL",
-    "location": [
-      "Remote",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:36.058Z",
-    "status": "scraped",
-    "tags": [
-      "protectia mediului",
-      "calitate"
+      "controlul calității",
+      "analiză de laborator"
     ],
     "matchPercentage": 65,
-    "reason": "ISO 14001 relevanta pentru protectia mediului, insa sarcinile sunt mai degraba sistemice decat inginesti de materiale."
+    "reason": "Analist QC în laborator analitic de gaze, potrivire parțială cu analiza de laborator și controlul calității."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/responsabil-control-calitate-galati/",
+    "title": "Responsabil control calitate/ Galati",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "Galaţi",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:43.199Z",
+    "status": "scraped",
+    "tags": [
+      "control calitate",
+      "asigurarea calitatii"
+    ],
+    "matchPercentage": 65,
+    "reason": "Control al calității în industrie, potrivit parțial pentru asigurarea calității, dar fără detalii despre caracterizarea materialelor."
   }
 ]
