@@ -1,5 +1,22 @@
 [
   {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3426318",
+    "title": "INGINER PRODUCTIE",
+    "company": "VALROM INDUSTRIE SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:34:59.117Z",
+    "status": "scraped",
+    "tags": [
+      "tehnologii prelucrare",
+      "producție"
+    ],
+    "matchPercentage": 90,
+    "reason": "Inginerie de producție în industria materialelor polimerice, potrivit pentru nivel entry-level"
+  },
+  {
     "url": "https://www.irum.ro/posturi-vacante/inginer-turnatorie/",
     "title": "INGINER TURNATORIE",
     "company": "IRUM SA",
@@ -11,11 +28,172 @@
     "date": "2026-10-17T12:20:50.653Z",
     "status": "scraped",
     "tags": [
-      "turnare",
-      "metalurgie"
+      "Turnătorie",
+      "Tehnologii procese"
     ],
-    "matchPercentage": 85,
-    "reason": "Inginer turnătorie folosește direct cunoștințe de metalurgie, turnare, tehnologii și controlul calității pieselor turnate."
+    "matchPercentage": 90,
+    "reason": "Inginer turnătorie - direct relevant pentru proiectarea proceselor de turnare și tehnologii din domeniul materialelor"
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Tehnician-Laborator",
+    "title": "Tehnician Laborator",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:35.322Z",
+    "status": "scraped",
+    "tags": [
+      "Caracterizare",
+      "Calitate"
+    ],
+    "matchPercentage": 90,
+    "reason": "Analiza fizico-chimica a materiilor prime/semifabricatelor/produse finite si controlul calitatii in mediu industrial."
+  },
+  {
+    "url": "https://apply.workable.com/j/B7D57989E3",
+    "title": "PV Inspector",
+    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
+    "location": [
+      "Arad",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:30:38.056Z",
+    "status": "scraped",
+    "tags": [
+      "caracterizare",
+      "control calitate"
+    ],
+    "matchPercentage": 80,
+    "reason": "Inspecția EL a modulelor PV utilizează tehnici de control și caracterizare a materialelor."
+  },
+  {
+    "url": "https://multijobs.ro/job/operator-la-instalatii-de-tratament-termic-cu-procesare/6671",
+    "title": "OPERATOR LA INSTALATII DE TRATAMENT TERMIC CU PROCESARE",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T11:59:55.004Z",
+    "status": "scraped",
+    "tags": [
+      "Tratamente termice",
+      "Tehnologii procese"
+    ],
+    "matchPercentage": 75,
+    "reason": "Operator la instalații de tratament termic - utilizează cunoștințe despre tratamente termice și procese materiale"
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
+    "title": "Working Student - Waste Management",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:37:42.622Z",
+    "status": "scraped",
+    "tags": [
+      "protectia mediului",
+      "deseuri"
+    ],
+    "matchPercentage": 75,
+    "reason": "Domeniul gestiunii deseurilor se leaga de protectia mediului si sustenabilitate."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/eUrJcp8V7k",
+    "title": "Inginer Calitate Civile",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:30:15Z",
+    "status": "scraped",
+    "tags": [
+      "control calitate",
+      "caracterizare"
+    ],
+    "matchPercentage": 72,
+    "reason": "Controlul calității în construcții implică verificarea conformității materialelor"
+  },
+  {
+    "url": "https://multijobs.ro/job/operator-roboti-sudura/2873",
+    "title": "Operator Roboti Sudura",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:05:27.550Z",
+    "status": "scraped",
+    "tags": [
+      "Sudare",
+      "Sisteme CNC"
+    ],
+    "matchPercentage": 72,
+    "reason": "Operator roboți sudură - implică procese de sudare automatizate relevante pentru prelucrarea materialelor"
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/1loIjnWQLn",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:30:15Z",
+    "status": "scraped",
+    "tags": [
+      "control calitate",
+      "caracterizare"
+    ],
+    "matchPercentage": 70,
+    "reason": "QA/QC pentru instalații electrice cu verificare materiale și documentație tehnică"
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/yxJVqBAfHk",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:30:15Z",
+    "status": "scraped",
+    "tags": [
+      "control calitate",
+      "caracterizare"
+    ],
+    "matchPercentage": 70,
+    "reason": "Asigurarea calității cu verificarea materialelor conform standardelor"
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/qjslVELwJw",
+    "title": "Inginer calitate instalatii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:30:15Z",
+    "status": "scraped",
+    "tags": [
+      "control calitate",
+      "caracterizare"
+    ],
+    "matchPercentage": 70,
+    "reason": "Verificare MEP cu focus pe materiale/echipamente și conformitate"
   },
   {
     "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
@@ -25,14 +203,32 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-25T10:54:26.380Z",
+    "date": "2026-10-26T12:25:40.007Z",
     "status": "scraped",
     "tags": [
-      "controlul calitatii",
-      "desen tehnic"
+      "Calitate",
+      "Control"
     ],
-    "matchPercentage": 72,
-    "reason": "Inspector calitate in aviatie verifica piese si produse dupa desene si specificatii, folosind masurari si instrumente de control."
+    "matchPercentage": 70,
+    "reason": "Se potriveste partial activitatii de control al calitatii."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/operator-brazare-cupru-hvac-tehnician-sudura-italia_padova_5270/",
+    "title": "Operator Brazare Cupru (HVAC)/ Tehnician Sudură. Italia",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Padova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:13:28.110Z",
+    "status": "scraped",
+    "tags": [
+      "Sudare",
+      "Prelucrare materiale"
+    ],
+    "matchPercentage": 70,
+    "reason": "Brazare/sudură - relevant pentru tehnologii de sudare și prelucrare a materialelor metalice"
   },
   {
     "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
@@ -46,64 +242,135 @@
     "date": "2026-10-17T12:17:26.394Z",
     "status": "scraped",
     "tags": [
-      "analiza laborator",
-      "protectia mediului"
+      "mediu",
+      "analize"
     ],
-    "matchPercentage": 72,
-    "reason": "Tehnician de analize de mediu, cu prelevare și analiză de probe relevante pentru protecția mediului."
+    "matchPercentage": 70,
+    "reason": "Analizele de mediu se leaga partial de protectia mediului."
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Controlul-Calitătii-Prefabricate-Beton",
-    "title": "Inginer Controlul Calității Producție Prefabricate Beton",
-    "company": "PROHUMAN APT S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155955099-working-student-sample-management-expert",
+    "title": "Working Student Sample Management Expert",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Buzău",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:15:50.485Z",
+    "date": "2026-10-26T12:37:42.622Z",
     "status": "scraped",
     "tags": [
-      "controlul calității",
-      "procesarea materialelor"
+      "caracterizare",
+      "laborator"
     ],
     "matchPercentage": 70,
-    "reason": "Inginer QC pentru prefabricate din beton, cu verificarea calității materialelor și a procesului de fabricație."
+    "reason": "Gestionarea probelor se leaga partial de analiza si caracterizarea de laborator."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3426318",
-    "title": "INGINER PRODUCTIE",
-    "company": "VALROM INDUSTRIE SRL",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/F9wmym3eLR",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:30:15Z",
+    "status": "scraped",
+    "tags": [
+      "control calitate",
+      "caracterizare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Controlul calității instalațiilor cu verificări de materiale și conformitate"
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/l3DNaO2G19",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:30:15Z",
+    "status": "scraped",
+    "tags": [
+      "control calitate",
+      "caracterizare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Controlul calității cu trasabilitate materiale și inspecții specifice"
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/NRqMw8Lvh5",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:30:15Z",
+    "status": "scraped",
+    "tags": [
+      "control calitate",
+      "caracterizare"
+    ],
+    "matchPercentage": 68,
+    "reason": "Controlul calității cu verificare documentație materialelor și neconformități"
+  },
+  {
+    "url": "https://www.anuntul.ro/anunt-angajare-sudori-autorizati-in-sudura-BJbrVX",
+    "title": "Sudori autorizati in sudura oxiacetilenica si Instalatori",
+    "company": "ANUNTUL TOTAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:02:32.405Z",
+    "status": "scraped",
+    "tags": [
+      "Sudare",
+      "Prelucrare materiale"
+    ],
+    "matchPercentage": 68,
+    "reason": "Sudori autorizați - activitate legată de tehnologii de sudare și unirea materialelor"
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3166428",
+    "title": "TINICHIGIU STRUCTURIST DE AVIATIE",
+    "company": "AEROSTAR SA",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-25T11:01:59.192Z",
+    "date": "2026-10-26T12:25:40.007Z",
     "status": "scraped",
     "tags": [
-      "materiale polimerice",
-      "procesare materiale"
+      "Prelucrare",
+      "Fabricatie"
     ],
-    "matchPercentage": 67,
-    "reason": "Inginer de producție în industria materialelor polimerice, potrivit ca nivel entry-level și relevant pentru procesarea materialelor."
+    "matchPercentage": 65,
+    "reason": "Se potriveste partial prelucrarii si fabricatiei metalice."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
-    "title": "Analist Controlul Calitatii",
-    "company": "MESSER ROMANIA GAZ SRL",
+    "url": "https://fjobs.ro/job/operator-turnatorie-topire-si-turnare-aluminiu-belgia-1900-eur-brut-ora/",
+    "title": "Operator turnătorie –…",
+    "company": "SILVERHAND PLUS S.R.L.",
     "location": [
-      "Resita",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:26.529Z",
+    "date": "2026-10-17T11:59:33.277Z",
     "status": "scraped",
     "tags": [
-      "controlul calității",
-      "analiză de laborator"
+      "Turnătorie",
+      "Prelucrare materiale"
     ],
     "matchPercentage": 65,
-    "reason": "Analist QC în laborator analitic de gaze, potrivire parțială cu analiza de laborator și controlul calității."
+    "reason": "Operator turnătorie - relevant pentru procesele de turnare, nivel operator potrivit pentru intrare în domeniu"
   },
   {
     "url": "https://oferimdemunca.ro/job/responsabil-control-calitate-galati/",
@@ -117,10 +384,28 @@
     "date": "2026-10-17T12:21:43.199Z",
     "status": "scraped",
     "tags": [
-      "control calitate",
-      "asigurarea calitatii"
+      "calitate",
+      "control"
     ],
     "matchPercentage": 65,
-    "reason": "Control al calității în industrie, potrivit parțial pentru asigurarea calității, dar fără detalii despre caracterizarea materialelor."
+    "reason": "Controlul calitatii se leaga partial de asigurarea calitatii industriale."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/",
+    "title": "lacatus confectii metalice",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-26T12:13:28.110Z",
+    "status": "scraped",
+    "tags": [
+      "Prelucrare materiale",
+      "Confecții metalice"
+    ],
+    "matchPercentage": 62,
+    "reason": "Lăcătuș confecții metalice - implică prelucrare și confecții din materiale metalice, parțial relevant"
   }
 ]
