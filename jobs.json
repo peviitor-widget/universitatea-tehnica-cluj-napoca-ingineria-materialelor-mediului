@@ -1,125 +1,5 @@
 [
   {
-    "url": "https://apply.workable.com/j/48F459ED15",
-    "title": "NDT Inspector",
-    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-27T11:49:02.186Z",
-    "status": "scraped",
-    "tags": [
-      "caracterizare",
-      "analiza"
-    ],
-    "matchPercentage": 95,
-    "reason": "Testarea nedistructivă (UT, PAUT, MT, PT) folosește direct tehnicile de analiză și caracterizare a materialelor."
-  },
-  {
-    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
-    "title": "INSPECTOR DE CALITATE",
-    "company": "AEROSTAR SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-27T11:44:25.389Z",
-    "status": "scraped",
-    "tags": [
-      "control calitate",
-      "masuratori"
-    ],
-    "matchPercentage": 90,
-    "reason": "Se potrivește direct controlului calității și tehnicilor de măsurare."
-  },
-  {
-    "url": "https://turbomecanica.ro/job/inginer-proiectant-asigurarea-calitatii/",
-    "title": "Inginer/Proiectant asigurarea calitatii",
-    "company": "TURBOMECANICA SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-27T11:16:12.232Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "aero"
-    ],
-    "matchPercentage": 90,
-    "reason": "Asigurarea calității în industria aerospațială - aplică managementul calității și standarde tehnice."
-  },
-  {
-    "url": "https://apply.workable.com/j/70A2BC0F2D",
-    "title": "Senior Welding Inspector",
-    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-27T11:49:02.187Z",
-    "status": "scraped",
-    "tags": [
-      "sudura",
-      "inspectie"
-    ],
-    "matchPercentage": 90,
-    "reason": "Senior Welding Inspector - inspecție sudură, relevant pentru materiale și asimilarea tehnologiei sudării."
-  },
-  {
-    "url": "https://apply.workable.com/j/B421527400",
-    "title": "Coating Inspector",
-    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-27T11:49:02.186Z",
-    "status": "scraped",
-    "tags": [
-      "acoperiri",
-      "coroziune"
-    ],
-    "matchPercentage": 90,
-    "reason": "Coating Inspector - ingineria suprafețelor și tratamente anticorozive, foarte relevant."
-  },
-  {
-    "url": "https://apply.workable.com/j/3D2DA7F065",
-    "title": "Coating Inspector Offshore",
-    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-27T11:49:02.186Z",
-    "status": "scraped",
-    "tags": [
-      "acoperiri",
-      "coroziune"
-    ],
-    "matchPercentage": 90,
-    "reason": "Coating Inspector Offshore - ingineria suprafețelor/tratamente anticorozive, relevant domeniului."
-  },
-  {
-    "url": "https://apply.workable.com/j/E2A015BC57",
-    "title": "Piping/Structural/ Welding Inspector",
-    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-27T11:49:02.186Z",
-    "status": "scraped",
-    "tags": [
-      "sudare",
-      "caracterizare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Inspecția sudurii, țevăriei și structurilor este direct relevantă pentru evaluarea integrității și calității materialelor."
-  },
-  {
     "url": "https://www.irum.ro/posturi-vacante/inginer-turnatorie/",
     "title": "INGINER TURNATORIE",
     "company": "IRUM SA",
@@ -131,29 +11,97 @@
     "date": "2026-10-17T12:20:50.653Z",
     "status": "scraped",
     "tags": [
-      "turnare",
-      "tehnologie"
+      "Turnare",
+      "Metalurgie"
     ],
     "matchPercentage": 90,
-    "reason": "Inginer turnătorie, corespunde direct proceselor de turnare."
+    "reason": "Inginerul turnatorie lucreaza direct cu tehnologii de turnare, controlul calitatii si procesarea metalelor, potrivit profilului de materiale."
   },
   {
-    "url": "https://cemacon.ro/cariere/expert-tehnic-part-time/",
-    "title": "Expert tehnic – (part time)",
-    "company": "CEMACON SA",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
+    "title": "Working Student - Waste Management",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Cluj-Napoca",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:41:42.608Z",
+    "status": "scraped",
+    "tags": [
+      "protectia mediului",
+      "impact industrial"
+    ],
+    "matchPercentage": 82,
+    "reason": "Working student în gestionarea deșeurilor, aliniat cu competențele de protecție a mediului și impact industrial."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3426318",
+    "title": "INGINER PRODUCTIE",
+    "company": "VALROM INDUSTRIE SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:37:57.209Z",
+    "status": "scraped",
+    "tags": [
+      "producție",
+      "tehnologie"
+    ],
+    "matchPercentage": 80,
+    "reason": "Inginerie de producție cu experiență redusă, relevantă pentru prelucrarea materialelor."
+  },
+  {
+    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
+    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
+    "company": "KRONOSPAN SEBES SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:48:08.886Z",
+    "status": "scraped",
+    "tags": [
+      "chimie",
+      "polimeri"
+    ],
+    "matchPercentage": 75,
+    "reason": "Producție chimică/formalină legată de industria chimică și polimerică."
+  },
+  {
+    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
+    "title": "INSPECTOR DE CALITATE",
+    "company": "AEROSTAR SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:27:03.115Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calității",
+      "desen tehnic"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inspector de calitate în fabricație aerospațială, cu verificarea conformității, dimensiunilor și parametrilor pe baza desenelor și specificațiilor tehnice."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/eUrJcp8V7k",
+    "title": "Inginer Calitate Civile",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-27T11:26:14.546Z",
+    "date": "2026-10-29T12:31:50Z",
     "status": "scraped",
     "tags": [
-      "ceramice",
-      "caracterizare"
+      "calitate",
+      "materiale"
     ],
-    "matchPercentage": 90,
-    "reason": "Se potriveste direct cu dezvoltarea si analiza materialelor ceramice."
+    "matchPercentage": 65,
+    "reason": "Controlul calității în construcții include verificarea conformității materialelor."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
@@ -167,242 +115,11 @@
     "date": "2026-10-17T12:22:26.529Z",
     "status": "scraped",
     "tags": [
-      "calitate",
-      "laborator"
-    ],
-    "matchPercentage": 85,
-    "reason": "Controlul calității în laborator pentru gaze - folosește caracterizarea și analiza materialelor."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272668/Lidl-Romania/Specialist-in-asigurarea-calitatii-(f/m)",
-    "title": "Specialist in asigurarea calitatii (f/m)",
-    "company": "LIDL ROMANIA SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:46.090Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "audit"
-    ],
-    "matchPercentage": 85,
-    "reason": "Specialist asigurarea calității - direct legat de controlul și managementul calității."
-  },
-  {
-    "url": "https://cariere.lidl.ro/jobs/specialist-in-asigurarea-calitatii-f-m-bucuresti-753823",
-    "title": "Specialist în asigurarea calității (f/m)",
-    "company": "LIDL DISCOUNT SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:26.529Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "audit"
-    ],
-    "matchPercentage": 85,
-    "reason": "Specialist asigurarea calității - legat de calitate și evaluare conform standardelor."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/specialist-in-asigurarea-calitatii-fm/101079",
-    "title": "Specialist în asigurarea calității (f/m)",
-    "company": "LIDL ROMANIA SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:18:38.309Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "audit"
-    ],
-    "matchPercentage": 85,
-    "reason": "Specialist asigurarea calității - legat de controlul și evaluarea calității."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/responsabil-control-calitate-galati/",
-    "title": "Responsabil control calitate/ Galati",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "Galaţi",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:43.199Z",
-    "status": "scraped",
-    "tags": [
-      "Control calitate",
-      "Caracterizare materiale"
-    ],
-    "matchPercentage": 85,
-    "reason": "Controlul calitatii direct relevant pentru materiale"
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-controlul-si-expertiza-produselor-alimentare/5247",
-    "title": "Inginer Controlul si Expertiza Produselor Alimentare",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Buzau",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:49.213Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "analiza"
-    ],
-    "matchPercentage": 80,
-    "reason": "Controlul și expertiza produselor alimentare - analiză și caracterizare, relevant pentru controlul calității."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272322/PORR-Romania/Specialist-în-domeniul-calității",
-    "title": "Specialist în domeniul calității",
-    "company": "PORR CONSTRUCT SRL",
-    "location": [
-      "Tulcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:16:44.638Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "constructii"
-    ],
-    "matchPercentage": 80,
-    "reason": "Specialist în domeniul calității în construcții - controlul calității pentru materiale de construcții."
-  },
-  {
-    "url": "https://www.targuldecariere.ro/companii/fcc-construccion/18802/inginer-controlul-calitatii-cq",
-    "title": "Inginer controlul calitatii CQ",
-    "company": "FCC CONSTRUCCION SA BARCELONA SUCURSALA BUCURESTI",
-    "location": [
-      "Lețcani",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:55.145Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "constructii"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inginer controlul calității în construcții - aplică controlul și verificarea calității."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Controlul-Calitătii-Prefabricate-Beton",
-    "title": "Inginer Controlul Calității Producție Prefabricate Beton",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Buzău",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:50.485Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "beton"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inginer controlul calității producție prefabricate beton - direct legat de materiale și calitate."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383631",
-    "title": "SPECIALIST ÎN DOMENIUL CALITATII",
-    "company": "CELESTICA ( ROMANIA ) SRL",
-    "location": [
-      "Bors",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:15:09.275Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "audit"
-    ],
-    "matchPercentage": 80,
-    "reason": "Specialist în domeniul calității - 5-7 ani experiență, borderline mid; totuși relevant pentru controlul calității."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
-    "title": "Working Student - Waste Management",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-27T11:54:22.051Z",
-    "status": "scraped",
-    "tags": [
-      "mediu",
-      "sustenabil"
-    ],
-    "matchPercentage": 70,
-    "reason": "Managementul deseurilor, relevant pentru protectia mediului si sustenabilitate."
-  },
-  {
-    "url": "https://apply.workable.com/j/B7D57989E3",
-    "title": "PV Inspector",
-    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
-    "location": [
-      "Arad",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-27T11:49:02.186Z",
-    "status": "scraped",
-    "tags": [
-      "caracterizare"
-    ],
-    "matchPercentage": 68,
-    "reason": "Inspecția EL a modulelor fotovoltaice are relevanță parțială pentru caracterizarea materialelor semiconductoare."
-  },
-  {
-    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
-    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
-    "company": "KRONOSPAN SEBES SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-27T11:59:36.099Z",
-    "status": "scraped",
-    "tags": [
-      "polimerice",
-      "prelucrare"
+      "analiza de laborator",
+      "controlul calitatii"
     ],
     "matchPercentage": 65,
-    "reason": "Domeniu partial legat de industria chimica si materialelor polimerice."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Tehnician-Laborator",
-    "title": "Tehnician Laborator",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:35.322Z",
-    "status": "scraped",
-    "tags": [
-      "caracterizare",
-      "analiza"
-    ],
-    "matchPercentage": 65,
-    "reason": "Analize fizico-chimice materiale, partial relevant"
+    "reason": "Control analitic de laborator pentru gaze lichefiate, cu aplicarea procedurilor de calitate și calibrare, potrivire parțială cu specializarea."
   },
   {
     "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
@@ -416,11 +133,11 @@
     "date": "2026-10-17T12:17:26.394Z",
     "status": "scraped",
     "tags": [
-      "Analize de laborator",
-      "Protectia mediului"
+      "analiza laborator",
+      "protectia mediului"
     ],
     "matchPercentage": 65,
-    "reason": "Analize de mediu partial relevante pentru protectia mediului"
+    "reason": "Tehnician analize de mediu, potrivire parțială prin analize de laborator și protecția mediului."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156335389-working-student-in-manufacturing-engineering-support",
@@ -430,31 +147,139 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-27T11:54:22.051Z",
+    "date": "2026-10-29T12:41:42.608Z",
     "status": "scraped",
     "tags": [
-      "procesare",
-      "utilaje"
+      "procesarea materialelor",
+      "proiectare tehnologică"
     ],
     "matchPercentage": 65,
-    "reason": "Suport in ingineria fabricatiei, se leaga partial de procesele si utilajele de prelucrare."
+    "reason": "Working student în suport pentru ingineria producției, cu aplicare parțială a cunoștințelor de procesare a materialelor și proiectare tehnologică."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155955099-working-student-sample-management-expert",
-    "title": "Working Student Sample Management Expert",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/qjslVELwJw",
+    "title": "Inginer calitate instalatii",
+    "company": "ELECTROGRUP SA",
     "location": [
       "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-27T11:54:22.051Z",
+    "date": "2026-10-29T12:31:50Z",
     "status": "scraped",
     "tags": [
-      "laborator",
-      "caracterizare"
+      "calitate",
+      "materiale"
     ],
-    "matchPercentage": 65,
-    "reason": "Partial relevant prin managementul probelor de laborator."
+    "matchPercentage": 63,
+    "reason": "Controlul calității pentru instalații include verificarea conformității materialelor."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/yxJVqBAfHk",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "verificare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Controlul calității include verificarea materialelor/echipamentelor, dar domeniu instalații electrice."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/NRqMw8Lvh5",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "verificare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Controlul calității include verificarea materialelor/echipamentelor, dar domeniu instalații electrice."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/F9wmym3eLR",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "verificare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Controlul calității include verificarea materialelor/echipamentelor, dar domeniu instalații electrice."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/l3DNaO2G19",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "verificare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Controlul calității include verificarea materialelor/echipamentelor, dar domeniu instalații electrice."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/1loIjnWQLn",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-29T12:31:50Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "verificare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Controlul calității include verificarea materialelor/echipamentelor, dar domeniu instalații electrice."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Controlul-Calitătii-Prefabricate-Beton",
+    "title": "Inginer Controlul Calității Producție Prefabricate Beton",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Buzău",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:50.485Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calitatii",
+      "procesarea materialelor"
+    ],
+    "matchPercentage": 62,
+    "reason": "Controlul calității producției de prefabricate din beton valorifică parțial cunoștințele de materiale și managementul calității."
   }
 ]
