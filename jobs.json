@@ -11,79 +11,11 @@
     "date": "2026-10-17T12:20:50.653Z",
     "status": "scraped",
     "tags": [
-      "Turnare",
-      "Metalurgie"
+      "procese de turnare",
+      "controlul calității"
     ],
-    "matchPercentage": 90,
-    "reason": "Inginerul turnatorie lucreaza direct cu tehnologii de turnare, controlul calitatii si procesarea metalelor, potrivit profilului de materiale."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156328340-working-student-waste-management",
-    "title": "Working Student - Waste Management",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:41:42.608Z",
-    "status": "scraped",
-    "tags": [
-      "protectia mediului",
-      "impact industrial"
-    ],
-    "matchPercentage": 82,
-    "reason": "Working student în gestionarea deșeurilor, aliniat cu competențele de protecție a mediului și impact industrial."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3426318",
-    "title": "INGINER PRODUCTIE",
-    "company": "VALROM INDUSTRIE SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:37:57.209Z",
-    "status": "scraped",
-    "tags": [
-      "producție",
-      "tehnologie"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inginerie de producție cu experiență redusă, relevantă pentru prelucrarea materialelor."
-  },
-  {
-    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
-    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
-    "company": "KRONOSPAN SEBES SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:48:08.886Z",
-    "status": "scraped",
-    "tags": [
-      "chimie",
-      "polimeri"
-    ],
-    "matchPercentage": 75,
-    "reason": "Producție chimică/formalină legată de industria chimică și polimerică."
-  },
-  {
-    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
-    "title": "INSPECTOR DE CALITATE",
-    "company": "AEROSTAR SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:27:03.115Z",
-    "status": "scraped",
-    "tags": [
-      "controlul calității",
-      "desen tehnic"
-    ],
-    "matchPercentage": 72,
-    "reason": "Inspector de calitate în fabricație aerospațială, cu verificarea conformității, dimensiunilor și parametrilor pe baza desenelor și specificațiilor tehnice."
+    "matchPercentage": 88,
+    "reason": "Inginer turnătorie folosește direct proiectarea proceselor de turnare, tehnologiile și controlul calității pieselor turnate, la nivel de inginer debutant."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/eUrJcp8V7k",
@@ -94,32 +26,122 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T12:31:50Z",
+    "date": "2026-10-30T12:23:30Z",
     "status": "scraped",
     "tags": [
       "calitate",
       "materiale"
     ],
-    "matchPercentage": 65,
-    "reason": "Controlul calității în construcții include verificarea conformității materialelor."
+    "matchPercentage": 78,
+    "reason": "Controlul calitatii materialelor/lucrarilor - relevant pentru asigurarea calitatii."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
-    "title": "Analist Controlul Calitatii",
-    "company": "MESSER ROMANIA GAZ SRL",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/yxJVqBAfHk",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
     "location": [
-      "Resita",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:26.529Z",
+    "date": "2026-10-30T12:23:30Z",
     "status": "scraped",
     "tags": [
-      "analiza de laborator",
-      "controlul calitatii"
+      "calitate",
+      "materiale"
     ],
-    "matchPercentage": 65,
-    "reason": "Control analitic de laborator pentru gaze lichefiate, cu aplicarea procedurilor de calitate și calibrare, potrivire parțială cu specializarea."
+    "matchPercentage": 78,
+    "reason": "Controlul calitatii in domeniu energetic - verificare materiale si conformitate."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/NRqMw8Lvh5",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:23:30Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "materiale"
+    ],
+    "matchPercentage": 78,
+    "reason": "Controlul calitatii - verificare materiale, trasabilitate, neconformitati."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/F9wmym3eLR",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:23:30Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "materiale"
+    ],
+    "matchPercentage": 78,
+    "reason": "Controlul calitatii - verificare materiale, trasabilitate, neconformitati."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/l3DNaO2G19",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:23:30Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "materiale"
+    ],
+    "matchPercentage": 78,
+    "reason": "Controlul calitatii - verificare materiale, trasabilitate, neconformitati."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/1loIjnWQLn",
+    "title": "Inginer Calitate Electrice",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:23:30Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "materiale"
+    ],
+    "matchPercentage": 78,
+    "reason": "Controlul calitatii electrice - verificare materiale si documentatie tehnica."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/qjslVELwJw",
+    "title": "Inginer calitate instalatii",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:23:30Z",
+    "status": "scraped",
+    "tags": [
+      "calitate",
+      "materiale"
+    ],
+    "matchPercentage": 78,
+    "reason": "Controlul calitatii instalatii - verificare materiale MEP si conformitate."
   },
   {
     "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
@@ -133,136 +155,99 @@
     "date": "2026-10-17T12:17:26.394Z",
     "status": "scraped",
     "tags": [
-      "analiza laborator",
+      "analize laborator",
       "protectia mediului"
     ],
-    "matchPercentage": 65,
-    "reason": "Tehnician analize de mediu, potrivire parțială prin analize de laborator și protecția mediului."
+    "matchPercentage": 75,
+    "reason": "Tehnician de analize de mediu, potrivit pentru competențe de laborator și protecția mediului."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156335389-working-student-in-manufacturing-engineering-support",
-    "title": "Working Student in Manufacturing Engineering Support",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3426318",
+    "title": "INGINER PRODUCTIE",
+    "company": "VALROM INDUSTRIE SRL",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-10-29T12:41:42.608Z",
+    "date": "2026-10-30T12:29:18.833Z",
     "status": "scraped",
     "tags": [
-      "procesarea materialelor",
-      "proiectare tehnologică"
+      "procesare",
+      "productie"
     ],
-    "matchPercentage": 65,
-    "reason": "Working student în suport pentru ingineria producției, cu aplicare parțială a cunoștințelor de procesare a materialelor și proiectare tehnologică."
+    "matchPercentage": 72,
+    "reason": "Inginer productie - posibil sa utilizeze tehnologii de procesare a materialelor."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/qjslVELwJw",
-    "title": "Inginer calitate instalatii",
-    "company": "ELECTROGRUP SA",
+    "url": "https://cariere.aerostar.ro/jobs/c3d02de4-1276-43bc-9772-91b3d606add9",
+    "title": "INSPECTOR DE CALITATE",
+    "company": "AEROSTAR SA",
     "location": [
-      "Cluj-Napoca",
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:18:51.089Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calitatii",
+      "desen tehnic"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inspector de calitate aerospațial cu desene tehnice, specificații, măsurători și documente de calitate, potrivit controlului calității materialelor."
+  },
+  {
+    "url": "https://apply.workable.com/j/B7D57989E3",
+    "title": "PV Inspector",
+    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
+    "location": [
+      "Arad",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T12:31:50Z",
+    "date": "2026-10-30T12:24:27.517Z",
     "status": "scraped",
     "tags": [
-      "calitate",
-      "materiale"
+      "controlul calitatii",
+      "tehnici de analiza"
     ],
-    "matchPercentage": 63,
-    "reason": "Controlul calității pentru instalații include verificarea conformității materialelor."
+    "matchPercentage": 72,
+    "reason": "Inspectia EL a modulelor fotovoltaice implica tehnici de analiza si controlul calitatii materialelor, la un nivel de technician compatibil cu entry-level."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/yxJVqBAfHk",
-    "title": "Inginer Calitate Electrice",
-    "company": "ELECTROGRUP SA",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
+    "title": "Analist Controlul Calitatii",
+    "company": "MESSER ROMANIA GAZ SRL",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:26.529Z",
+    "status": "scraped",
+    "tags": [
+      "controlul calității",
+      "analiză de laborator"
+    ],
+    "matchPercentage": 70,
+    "reason": "Analiză și control al calității în laborator pentru gaze lichefiate, cu tehnici analitice relevante parțial."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Coordonator-Control-Produs",
+    "title": "Inginer Coordonator Control Produs",
+    "company": "PROHUMAN APT S.R.L.",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-29T12:31:50Z",
+    "date": "2026-10-17T12:15:50.485Z",
     "status": "scraped",
     "tags": [
-      "calitate",
-      "verificare"
+      "managementul calitatii",
+      "controlul calitatii"
     ],
-    "matchPercentage": 62,
-    "reason": "Controlul calității include verificarea materialelor/echipamentelor, dar domeniu instalații electrice."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/NRqMw8Lvh5",
-    "title": "Inginer Calitate Electrice",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:31:50Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "verificare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Controlul calității include verificarea materialelor/echipamentelor, dar domeniu instalații electrice."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/F9wmym3eLR",
-    "title": "Inginer Calitate Electrice",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:31:50Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "verificare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Controlul calității include verificarea materialelor/echipamentelor, dar domeniu instalații electrice."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/l3DNaO2G19",
-    "title": "Inginer Calitate Electrice",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:31:50Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "verificare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Controlul calității include verificarea materialelor/echipamentelor, dar domeniu instalații electrice."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/1loIjnWQLn",
-    "title": "Inginer Calitate Electrice",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Constanta",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-29T12:31:50Z",
-    "status": "scraped",
-    "tags": [
-      "calitate",
-      "verificare"
-    ],
-    "matchPercentage": 62,
-    "reason": "Controlul calității include verificarea materialelor/echipamentelor, dar domeniu instalații electrice."
+    "matchPercentage": 70,
+    "reason": "Controlul calității produselor industriale folosește managementul calității și măsurarea, la nivel mid."
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Controlul-Calitătii-Prefabricate-Beton",
@@ -276,10 +261,45 @@
     "date": "2026-10-17T12:15:50.485Z",
     "status": "scraped",
     "tags": [
-      "controlul calitatii",
+      "controlul calității",
       "procesarea materialelor"
     ],
-    "matchPercentage": 62,
-    "reason": "Controlul calității producției de prefabricate din beton valorifică parțial cunoștințele de materiale și managementul calității."
+    "matchPercentage": 67,
+    "reason": "Controlul calității prefabricatelor din beton folosește cunoștințe de materiale și procesare, dar într-un context de construcții."
+  },
+  {
+    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
+    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
+    "company": "KRONOSPAN SEBES SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:39:53.119Z",
+    "status": "scraped",
+    "tags": [
+      "polimeri",
+      "procesare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Productie chimica/polimerica, partial relevant pentru industria materialelor polimerice."
+  },
+  {
+    "url": "https://www.jobrapid.ro/locuri-de-munca/desenator-tehnic-in-alba-iulia-1728634.html",
+    "title": "Desenator Tehnic",
+    "company": "RAPEL SRL",
+    "location": [
+      "Alba Iulia",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:06:14.407Z",
+    "status": "scraped",
+    "tags": [
+      "Desen tehnic",
+      "CAD"
+    ],
+    "matchPercentage": 60,
+    "reason": "Desen tehnic cu utilizarea CAD, potrivire parțială pe competența de desen tehnic, nivel entry fără experiență."
   }
 ]
