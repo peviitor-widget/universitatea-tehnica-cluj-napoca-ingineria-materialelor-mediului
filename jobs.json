@@ -14,8 +14,8 @@
       "turnare",
       "controlul calitatii"
     ],
-    "matchPercentage": 85,
-    "reason": "Inginer de turnătorie cu atribuții directe de tehnologie a turnării, control al calității și documentație tehnică, la nivel entry/junior."
+    "matchPercentage": 82,
+    "reason": "Inginer de turnătorie cu coordonarea tehnologiei, controlul calității pieselor turnate și documentație tehnologică, potrivit pentru absolvent."
   },
   {
     "url": "https://multijobs.ro/job/tehnician-analize-de-mediu/354",
@@ -29,11 +29,28 @@
     "date": "2026-10-17T12:17:26.394Z",
     "status": "scraped",
     "tags": [
-      "protectia mediului",
-      "analiza de laborator"
+      "analiza laborator",
+      "protectia mediului"
     ],
-    "matchPercentage": 75,
-    "reason": "Tehnician de analize de mediu, domeniu direct relevant pentru protecția mediului și tehnicile de analiză de laborator."
+    "matchPercentage": 78,
+    "reason": "Tehnician de analize de mediu, entry-level, foloseste direct competente de analiza de laborator si protectia mediului."
+  },
+  {
+    "url": "https://apply.workable.com/j/48F459ED15",
+    "title": "NDT Inspector",
+    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-10T14:33:50.659Z",
+    "status": "scraped",
+    "tags": [
+      "Analiza materiale",
+      "Sudare"
+    ],
+    "matchPercentage": 72,
+    "reason": "Inspectia NDT pentru conducte sudate foloseste direct cunostintele de sudare si controlul calitatii materialelor, cu un nivel de inspector calificat/mediu, nu senior."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/analist-controlul-calitatii/1987398",
@@ -47,64 +64,28 @@
     "date": "2026-10-17T12:22:26.529Z",
     "status": "scraped",
     "tags": [
-      "analiza laborator",
+      "analiza de laborator",
       "controlul calitatii"
     ],
     "matchPercentage": 68,
-    "reason": "Analist control calitate în laborator analitic pentru gaze, cu testare, calibrare și prelucrare date experimentale."
+    "reason": "Controlul calității și analiza de laborator a produselor gazoase folosesc competențe de analiză și măsurare, dar domeniul este parțial adiacent."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/PSmzjITSAO",
-    "title": "Specialist SMI/ QA",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-09T15:36:47Z",
-    "status": "scraped",
-    "tags": [
-      "impact industrial",
-      "managementul calitatii"
-    ],
-    "matchPercentage": 65,
-    "reason": "Specialist SMI/QA cu ISO 14001, gestionarea deseurilor si impact de mediu, potrivire partiala pe protectia mediului si managementul calitatii."
-  },
-  {
-    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
-    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
-    "company": "KRONOSPAN SEBES SA",
+    "url": "https://apply.workable.com/j/E2A015BC57",
+    "title": "Piping/Structural/ Welding Inspector",
+    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-09T15:57:48.304Z",
+    "date": "2026-11-10T14:33:50.659Z",
     "status": "scraped",
     "tags": [
-      "materiale polimerice",
-      "procesare materiale"
+      "Sudare",
+      "Controlul calității"
     ],
-    "matchPercentage": 62,
-    "reason": "Rol în industria chimică a formaldehidei, parțial relevant pentru materiale polimerice și procesare, dar axat pe operarea instalației."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Tehnician-Laborator",
-    "title": "Tehnician Laborator",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:35.322Z",
-    "status": "scraped",
-    "tags": [
-      "analiza de laborator",
-      "controlul calitatii"
-    ],
-    "matchPercentage": 62,
-    "reason": "Tehnician de laborator care efectuează analize fizico-chimice, calibrare și trasabilitate, folosind parțial competențele de analiză de laborator și control al calității, deși domeniul este alimentar."
+    "matchPercentage": 68,
+    "reason": "Inspectia structurilor si sudurilor metalice implica direct tehnologia sudarii si controlul calitatii, la un nivel compatibil cu un absolvent sau early-career."
   },
   {
     "url": "https://www.prohuman.ro/candidati/jobs/Inginer-Controlul-Calitătii-Prefabricate-Beton",
@@ -121,7 +102,64 @@
       "controlul calitatii",
       "procesare materiale"
     ],
+    "matchPercentage": 66,
+    "reason": "Controlul calității prefabricatelor din beton folosește cunoștințe de procesare și control al materialelor, dar într-un context de construcții."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/PSmzjITSAO",
+    "title": "Specialist SMI/ QA",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-10T14:32:42Z",
+    "status": "scraped",
+    "tags": [
+      "protectia mediului",
+      "managementul calitatii"
+    ],
+    "matchPercentage": 66,
+    "reason": "Specialist SMI/QA cu ISO 14001 si gestionarea deseurilor foloseste direct competente de protectie a mediului si management al calitatii."
+  },
+  {
+    "url": "https://multijobs.ro/job/desenator-tehnic-2d-cad/1769",
+    "title": "Desenator Tehnic 2D CAD",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Alba Iulia",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:42.731Z",
+    "status": "scraped",
+    "tags": [
+      "CAD",
+      "desen tehnic"
+    ],
     "matchPercentage": 60,
-    "reason": "Controlul calității producției de prefabricate din beton, cu verificarea și caracterizarea unui material de construcție."
+    "reason": "Desen tehnic 2D CAD folosește direct CAD și desenul tehnic, dar domeniul se potrivește doar parțial."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/tehnician-inginer-autocad-2",
+    "title": "TEHNICIAN/INGINER AUTOCAD",
+    "company": "MSM ALUMINIUM &amp; PVC SYSTEMS SRL",
+    "location": [
+      "Str. Splaiul Unirii",
+      "nr. 5B",
+      "Popesti-Leordeni",
+      "Ilfov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:33.895Z",
+    "status": "scraped",
+    "tags": [
+      "CAD",
+      "materiale metalice"
+    ],
+    "matchPercentage": 60,
+    "reason": "Tehnician/inginer AutoCAD pentru profile aluminiu/PVC, potrivire parțială pe CAD și materiale."
   }
 ]
