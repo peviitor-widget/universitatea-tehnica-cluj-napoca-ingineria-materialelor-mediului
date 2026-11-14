@@ -1,1 +1,55 @@
-[]
+[
+  {
+    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
+    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
+    "company": "KRONOSPAN SEBES SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:26:21.926Z",
+    "status": "scraped",
+    "tags": [
+      "industria chimică",
+      "materiale polimerice"
+    ],
+    "matchPercentage": 65,
+    "reason": "Inginer chimist in producția de formaldehidă, domeniu apropiat de industria chimică și materialele polimerice, cu nivel compatibil de entry/mid."
+  },
+  {
+    "url": "https://apply.workable.com/j/B7D57989E3",
+    "title": "PV Inspector",
+    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
+    "location": [
+      "Arad",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:13:09.481Z",
+    "status": "scraped",
+    "tags": [
+      "caracterizarea materialelor",
+      "controlul calitatii"
+    ],
+    "matchPercentage": 62,
+    "reason": "Inspecția EL a modulelor PV implică controlul calității și caracterizarea semiconductorilor, la nivel de tehnician fără experiență anterioară."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/PSmzjITSAO",
+    "title": "Specialist SMI/ QA",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-13T14:12:23Z",
+    "status": "scraped",
+    "tags": [
+      "protectia mediului",
+      "managementul calitatii"
+    ],
+    "matchPercentage": 62,
+    "reason": "Rol partial relevant prin protectia mediului, gestionarea deseurilor si managementul calitatii ISO, dar fara caracterizare tehnica a materialelor."
+  }
+]
