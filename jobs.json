@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://www.randstad.ro/locuri-de-munca/controlor-calitate_bucuresti_5474/",
-    "title": "controlor calitate",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:04:39.498Z",
-    "status": "scraped",
-    "tags": [
-      "controlul calității",
-      "caracterizarea materialelor"
-    ],
-    "matchPercentage": 78,
-    "reason": "Controlorul de calitate inspectează și testează materii prime, semifabricate și produse finite, activitate directă de control al calității materialelor."
-  },
-  {
-    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
-    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
-    "company": "KRONOSPAN SEBES SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-14T15:05:10.854Z",
-    "status": "scraped",
-    "tags": [
-      "materiale polimerice",
-      "procesare materiale"
-    ],
-    "matchPercentage": 65,
-    "reason": "Producția de formaldehidă aparține industriei chimice și polimerice, cu procesare relevantă, dar nu caracterizare directă a materialelor."
-  },
-  {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/PSmzjITSAO",
     "title": "Specialist SMI/ QA",
     "company": "ELECTROGRUP SA",
@@ -43,13 +8,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-14T13:11:31Z",
+    "date": "2026-11-15T13:39:50Z",
     "status": "scraped",
     "tags": [
-      "Protectia mediului",
-      "Managementul calitatii"
+      "management calitate",
+      "protectia mediului"
     ],
     "matchPercentage": 65,
-    "reason": "Specialist SMI/QA aplică direct competențe de management al calității și protecția mediului (ISO 9001/14001), potrivire parțială de domeniu la nivel adecvat."
+    "reason": "Rol de calitate/mediu care acopera partial managementul calitatii si protectia mediului, fara caracterizare de materiale."
   }
 ]
