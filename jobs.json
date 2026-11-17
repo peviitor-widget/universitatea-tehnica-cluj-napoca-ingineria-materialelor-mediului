@@ -1,6 +1,222 @@
 [
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/PSmzjITSAO",
+    "url": "https://www.irum.ro/posturi-vacante/inginer-turnatorie/",
+    "title": "INGINER TURNATORIE",
+    "company": "IRUM SA",
+    "location": [
+      "Reghin",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:05:11Z",
+    "status": "tested",
+    "tags": [
+      "turnare",
+      "management calitate"
+    ],
+    "matchPercentage": 88,
+    "reason": "Inginer in turnatorie cu proiectare tehnologica, documentatie si analiza calitatii, fara cerinta de experienta minima."
+  },
+  {
+    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
+    "title": "ASAM angajeaza inginer proiectant Solidworks",
+    "company": "ASAM SA",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:49:35Z",
+    "status": "tested",
+    "tags": [
+      "CAD",
+      "desen tehnic"
+    ],
+    "matchPercentage": 82,
+    "reason": "Inginer proiectant SolidWorks, sarcini directe de proiectare asistata si desen tehnic, la nivel entry-level."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/angajam-inginer-sudor/",
+    "title": "Angajam Inginer sudor",
+    "company": "TERMOREP SRL",
+    "location": [
+      "Râmnicu Vâlcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:34:29Z",
+    "status": "tested",
+    "tags": [
+      "Sudare",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 80,
+    "reason": "Inginerul sudor folosește direct tehnologia sudării și interpretarea desenelor tehnice, iar cerința de peste 2 ani se încadrează la nivel mid."
+  },
+  {
+    "url": "https://jobs.zollner.ro/jobposting/c8c98e43e25e7fa39be5d74ac81691ac95428e9b0",
+    "title": "Analist calitate furnizor",
+    "company": "ZES ZOLLNER ELECTRONIC SRL",
+    "location": [
+      "Satu Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:57:31Z",
+    "status": "tested",
+    "tags": [
+      "Control calitate",
+      "Analiza materiale"
+    ],
+    "matchPercentage": 80,
+    "reason": "Analist calitate furnizor cu studii tehnice, sarcini pe calitatea materiilorprime și metode de calitate, nivel mid."
+  },
+  {
+    "url": "https://multijobs.ro/job/controlor-calitate-2d/1662",
+    "title": "Controlor calitate 2D",
+    "company": "SEGULA INTEGRATION SRL",
+    "location": [
+      "Mioveni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:11:05Z",
+    "status": "tested",
+    "tags": [
+      "Control calitate",
+      "Măsurare"
+    ],
+    "matchPercentage": 80,
+    "reason": "Controlorul calitate 2D folosește direct tehnicile de măsurare și controlul calității, la nivel entry-level."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
+    "title": "Programator CAD/CAM",
+    "company": "DYNAMIC DESIGN EUROPE RO S.R.L.",
+    "location": [
+      "Belciugatele",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T08:26:38Z",
+    "status": "tested",
+    "tags": [
+      "CAD/CAM",
+      "comanda numerica"
+    ],
+    "matchPercentage": 80,
+    "reason": "Programator CAD/CAM pentru prelucrari cu comanda numerica, foloseste direct proiectarea asistata si sistemele CNC."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/angajam-inginer-pregatirea-fabricatiei/",
+    "title": "Angajam Inginer Pregatirea Fabricatiei",
+    "company": "TERMOREP SRL",
+    "location": [
+      "Râmnicu Vâlcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:34:29Z",
+    "status": "tested",
+    "tags": [
+      "Desen tehnic",
+      "Prelucrare materiale"
+    ],
+    "matchPercentage": 78,
+    "reason": "Pregătirea fabricației în construcții metalice presupune tehnologia de prelucrare a materialelor și desen tehnic, cu experiență de peste 2 ani."
+  },
+  {
+    "url": "https://www.inspet.ro/job/responsabil-ctc-inspector-cq/",
+    "title": "Responsabil CTC (Inspector CQ)",
+    "company": "INSPET SA",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:51:54Z",
+    "status": "tested",
+    "tags": [
+      "Sudare",
+      "Control calitate"
+    ],
+    "matchPercentage": 78,
+    "reason": "Inspectorul CQ în infrastructura energetică folosește cunoștințe de sudare, control al calității și documentație tehnică, la nivel junior/mid."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
+    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
+    "location": [
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:16:28Z",
+    "status": "tested",
+    "tags": [
+      "Analiza laborator",
+      "Control calitate"
+    ],
+    "matchPercentage": 72,
+    "reason": "Tehnician analiza calității în electronice, 1-5 ani experiență, nivel entry cu sarcini de analiză și măsurare."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-calitate-analist-calitate/1584",
+    "title": "Inginer Calitate / Analist Calitate",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Aiud",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:12:59Z",
+    "status": "tested",
+    "tags": [
+      "Control calitate",
+      "Management calitate"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol de inginer/analist calitate fără cerințe de senior, cu sarcini de control al calității."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3351154",
+    "title": "SPECIALIST ÎN DOMENIUL CALITATII",
+    "company": "AGRINVEST SRL",
+    "location": [
+      "MUNICIPIUL BUZAU",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "Management calitate",
+      "Control calitate"
+    ],
+    "matchPercentage": 70,
+    "reason": "Specialist calitate cu mai puțin de 3 ani experiență, nivel potrivit și domeniu de asigurare a calității."
+  },
+  {
+    "url": "https://multijobs.ro/job/analist-calitate/3605",
+    "title": "Analist Calitate",
+    "company": "ARENA GROUP SA",
+    "location": [
+      "Voluntari",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:51:54Z",
+    "status": "tested",
+    "tags": [
+      "Control calitate",
+      "Analiza laborator"
+    ],
+    "matchPercentage": 68,
+    "reason": "Poziție de analist calitate la nivel de intrare, relevantă pentru controlul calității."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/PSmzjITSAO?department=Electrogrup",
     "title": "Specialist SMI/ QA",
     "company": "ELECTROGRUP SA",
     "location": [
@@ -8,13 +224,120 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:39:50Z",
-    "status": "scraped",
+    "date": "2026-11-17T10:51:46Z",
+    "status": "tested",
     "tags": [
-      "management calitate",
-      "protectia mediului"
+      "Management calitate",
+      "Impact mediu"
+    ],
+    "matchPercentage": 68,
+    "reason": "Responsabilitatile de management al calitatii ISO 9001 si de control al impactului asupra mediului ISO 14001 folosesc competente de specialitate, la nivel de specialist."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inginer-chimist-197",
+    "title": "INGINER CHIMIST",
+    "company": "HYDRO - X SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:37:34Z",
+    "status": "tested",
+    "tags": [
+      "Analiza laborator",
+      "Tehnici analiza"
     ],
     "matchPercentage": 65,
-    "reason": "Rol de calitate/mediu care acopera partial managementul calitatii si protectia mediului, fara caracterizare de materiale."
+    "reason": "Poziția de inginer chimist implică analiză de laborator în industria chimică, domeniu înrudit, dar fără detalii clare privind nivelul sau sarcinile de caracterizare a materialelor."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-calitate/3076",
+    "title": "INGINER CALITATE",
+    "company": "AGROPROD CRASNA COOPERATIVA AGRICOLĂ",
+    "location": [
+      "Supuru de Jos",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:03:59Z",
+    "status": "tested",
+    "tags": [
+      "Asigurare calitate"
+    ],
+    "matchPercentage": 65,
+    "reason": "Inginerul de calitate folosește competențe de asigurare a calității, deși domeniul agroalimentar e doar parțial legat de materiale."
+  },
+  {
+    "url": "https://8ore.ro/locuri-de-munca/controlor-calitate-fabrica-mase-plastice-pantelimon",
+    "title": "Controlor Calitate - Fabrica mase plastice Pantelimon",
+    "company": "RECRUITMENT MARATHON S.R.L.",
+    "location": [
+      "Pantelimon",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:45:50Z",
+    "status": "tested",
+    "tags": [
+      "Control calitate",
+      "Materiale polimerice"
+    ],
+    "matchPercentage": 65,
+    "reason": "Controlul calității într-o fabrică de mase plastice e relevant, dar sarcinile sunt inspecție simplă, la nivel entry-level."
+  },
+  {
+    "url": "https://jobs.schaeffler.com/job/Brasov-Inginer-proiectare-507075/1452016733/",
+    "title": "Inginer proiectare",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:57:31Z",
+    "status": "tested",
+    "tags": [
+      "CAD",
+      "Alegerea materialelor"
+    ],
+    "matchPercentage": 65,
+    "reason": "Proiectarea mecanica de produs foloseste CAD, desenul tehnic si alegerea materialelor, iar陶瓷 cerintele nu vizeaza un nivel senior."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273325/Trenkwalder-Romania/Inginer-Suport-Tehnic-–-Aditivi-pentru-Construcții",
+    "title": "Inginer Suport Tehnic – Aditivi pentru Construcții",
+    "company": "TRENKWALDER SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:36:23Z",
+    "status": "tested",
+    "tags": [
+      "Materiale polimerice",
+      "Alegerea materialelor"
+    ],
+    "matchPercentage": 64,
+    "reason": "Suportul tehnic pentru aditivi de construcții implică cunoașterea chimiei și a materialelor, cu nivel compatibil unui absolvent junior."
+  },
+  {
+    "url": "https://multijobs.ro/job/operator-la-instalatii-de-tratament-termic-cu-procesare/6671",
+    "title": "OPERATOR LA INSTALATII DE TRATAMENT TERMIC CU PROCESARE",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:49:24Z",
+    "status": "tested",
+    "tags": [
+      "Tratamente termice",
+      "Procesare materiale"
+    ],
+    "matchPercentage": 60,
+    "reason": "Operarea instalațiilor de tratament termic folosește direct competențele de tratamente termice și procesare a materialelor, la nivel entry-level."
   }
 ]
