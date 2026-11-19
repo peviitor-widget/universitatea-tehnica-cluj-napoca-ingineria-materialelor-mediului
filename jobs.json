@@ -11,82 +11,11 @@
     "date": "2026-11-17T10:05:11Z",
     "status": "tested",
     "tags": [
-      "Proiectarea turnarii",
-      "Controlul calitatii"
+      "Turnare",
+      "Control calitate"
     ],
-    "matchPercentage": 90,
-    "reason": "Inginer turnătorie cu atribuții de tehnologie, control al pieselor turnate și calitate, potrivire directă."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-confectii-metalice/2136",
-    "title": "Inginer Confectii Metalice",
-    "company": "NIMB CONSMETAL SRL",
-    "location": [
-      "Cernavoda",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:50:51Z",
-    "status": "tested",
-    "tags": [
-      "Rezistenta materialelor",
-      "Tehnologia sudarii"
-    ],
-    "matchPercentage": 85,
-    "reason": "Inginer confecții metalice, folosește rezistența materialelor, dimensionare și tehnologia sudării."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269917/Hipo-Job-Finder/Dimensional-Lab-Engineer-(F/M)---Marquardt",
-    "title": "Dimensional Lab Engineer (F/M) - Marquardt",
-    "company": "HIPO COMPANY GRUP SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:16:57Z",
-    "status": "tested",
-    "tags": [
-      "Control calitate",
-      "Masurare materiale"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rolul de inginer în laborator dimensional folosește direct controlul calității și tehnicile de analiză și măsurare, iar experiența de 1-5 ani e la nivel entry/junior."
-  },
-  {
-    "url": "https://colorcontrol.ro/vacancies",
-    "title": "Inginer Mecanic Proiectant",
-    "company": "COLOR CONTROL SERVICES SRL",
-    "location": [
-      "Apahida",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:32:49Z",
-    "status": "tested",
-    "tags": [
-      "CAD",
-      "Sudare"
-    ],
-    "matchPercentage": 82,
-    "reason": "Proiectarea mecanică într-un atelier cu CNC, sudare și acoperire pulverulentă folosește CAD-ul, desenul tehnic și tratamentele de suprafață la nivel de începător."
-  },
-  {
-    "url": "https://apply.workable.com/j/48F459ED15",
-    "title": "NDT Inspector",
-    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:41:30.512Z",
-    "status": "scraped",
-    "tags": [
-      "Caracterizare",
-      "Sudare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Inspectia nedistructiva a sudurilor (UT/PAUT/MT/PT) foloseste direct analiza si caracterizarea materialelor, desi supervizarea poate cere mai multa experienta."
+    "matchPercentage": 88,
+    "reason": "Inginer turnătorie cu proiectare tehnologică, controlul calității pieselor turnate și documentație, experiența anterioară fiind doar avantaj."
   },
   {
     "url": "https://apply.workable.com/j/B7D57989E3",
@@ -97,14 +26,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:41:30.512Z",
+    "date": "2026-11-18T15:21:17.303Z",
     "status": "scraped",
     "tags": [
-      "Analiza",
-      "Masurare"
+      "Calitate",
+      "Caracterizare"
     ],
-    "matchPercentage": 76,
-    "reason": "Inspectia prin electroluminescenta a modulelor PV este o tehnica de analiza si masurare a materialelor, la nivel de technician entry-level."
+    "matchPercentage": 68,
+    "reason": "Inspectia prin electroluminescenta a modulelor PV foloseste tehnici de masurare si control al calitatii la nivel de tehnician."
   },
   {
     "url": "https://www.leohr.ro/jobs/specialist-proces-sudura/323/",
@@ -118,9 +47,46 @@
     "date": "2026-11-17T13:34:20Z",
     "status": "tested",
     "tags": [
-      "Tehnologia sudarii"
+      "Sudare",
+      "Procedee sudare"
     ],
-    "matchPercentage": 72,
-    "reason": "Specialist proces sudură, aplică direct tehnologia de sudare la un nivel compatibil cu junior/mid."
+    "matchPercentage": 65,
+    "reason": "Specialist în proces de sudură, domeniu direct relevant prin tehnologia sudării, fără cerințe de nivel senior."
+  },
+  {
+    "url": "https://romaero.com/cariere/anunt-angajare-tinichigiu-structurist-aviatie-atelier-compozite/",
+    "title": "TINICHIGIU STRUCTURIST AVIATIE – ATELIER COMPOZITE",
+    "company": "ROMAERO SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:40:06Z",
+    "status": "tested",
+    "tags": [
+      "Compozite",
+      "Desen tehnic"
+    ],
+    "matchPercentage": 65,
+    "reason": "Tehnician tinichigiu structurist în atelier de compozite, nivel junior (1 an), folosește procesarea compozitelor și desenul tehnic, dar e rol de execuție."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/PSmzjITSAO",
+    "title": "Specialist SMI/ QA",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-18T15:20:20Z",
+    "status": "scraped",
+    "tags": [
+      "Asigurarea calitatii",
+      "Protectia mediului"
+    ],
+    "matchPercentage": 62,
+    "reason": "Sarcinile vizează managementul calității și conformitatea de mediu, competențe din planul de învățământ, la nivel de specialist."
   }
 ]
