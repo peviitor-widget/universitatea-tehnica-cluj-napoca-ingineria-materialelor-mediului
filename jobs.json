@@ -11,136 +11,11 @@
     "date": "2026-11-17T10:05:11Z",
     "status": "tested",
     "tags": [
-      "Turnare",
-      "Calitate"
+      "turnare",
+      "calitate"
     ],
     "matchPercentage": 92,
-    "reason": "Inginer în turnătorie cu sarcini directe pe tehnologia turnării, documentație tehnologică, inspecții și analiza indicatorilor de calitate, fără cerință de senioritate."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269917/Hipo-Job-Finder/Dimensional-Lab-Engineer-(F/M)---Marquardt",
-    "title": "Dimensional Lab Engineer (F/M) - Marquardt",
-    "company": "HIPO COMPANY GRUP SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:16:57Z",
-    "status": "tested",
-    "tags": [
-      "Analiza laborator",
-      "Masurare materiale"
-    ],
-    "matchPercentage": 88,
-    "reason": "Inginer în laborator de măsurare dimensională, rol care folosește direct analiza de laborator, tehnicile de măsurare și controlul calității, la nivel 1-5 ani."
-  },
-  {
-    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
-    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
-    "company": "KRONOSPAN SEBES SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-21T14:30:57.874Z",
-    "status": "scraped",
-    "tags": [
-      "analiza laborator",
-      "instalatii tehnologice"
-    ],
-    "matchPercentage": 80,
-    "reason": "Producția de formaldehidă/formalină este un proces din industria chimică, legat direct de rășinile polimerice, iar postul de inginer chimist este la nivel de început de carieră."
-  },
-  {
-    "url": "https://multijobs.ro/job/inginer-confectii-metalice/2136",
-    "title": "Inginer Confectii Metalice",
-    "company": "NIMB CONSMETAL SRL",
-    "location": [
-      "Cernavoda",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:50:51Z",
-    "status": "tested",
-    "tags": [
-      "Prelucrare materiale",
-      "Proiectare CAD"
-    ],
-    "matchPercentage": 78,
-    "reason": "Inginer în confecții metalice, domeniu direct legat de prelucrarea materialelor, proiectare și structuri metalice, la nivel de început de carieră."
-  },
-  {
-    "url": "https://apply.workable.com/j/B7D57989E3",
-    "title": "PV Inspector",
-    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
-    "location": [
-      "Arad",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-21T14:25:45.893Z",
-    "status": "scraped",
-    "tags": [
-      "Control calitatii",
-      "Caracterizare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Inspecția prin electroluminiscență a modulelor PV aplică tehnici de control al calității și caracterizare, iar postul de tehnician e la nivel de început."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/specialist-proces-sudura/323/",
-    "title": "Specialist Proces Sudura",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Cateasca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T13:34:20Z",
-    "status": "tested",
-    "tags": [
-      "Sudare",
-      "Calitate"
-    ],
-    "matchPercentage": 68,
-    "reason": "Poziția de specialist în procese de sudură folosește direct tehnologia sudării, iar titlul nu indică un nivel senior."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
-    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
-    "company": "HIPO COMPANY GRUP SRL",
-    "location": [
-      "Sibiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:16:28Z",
-    "status": "tested",
-    "tags": [
-      "Analiza laborator",
-      "Control calitate"
-    ],
-    "matchPercentage": 65,
-    "reason": "Analiza calității în electronică folosește tehnici de analiză și măsurare în laborator, iar intervalul de 1-5 ani permite un candidat entry-level."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/Zg1mMaNA9o",
-    "title": "Specialist SMI/ QA",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-21T14:24:55Z",
-    "status": "scraped",
-    "tags": [
-      "Management calitate",
-      "Impact mediu"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rol de specialist în managementul calității și protecția mediului (ISO 9001/14001, gestionarea deșeurilor), folosind competențe din listă, la nivel acceptabil."
+    "reason": "Sarcinile vizează direct tehnologia de turnare, documentația de proces și controlul calității pieselor, iar experiența anterioară e doar avantaj."
   },
   {
     "url": "https://electrogrup.applytojob.com/apply/jobs/details/bneZVPKCu9",
@@ -151,13 +26,65 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-21T14:24:55Z",
+    "date": "2026-11-22T14:17:28Z",
     "status": "scraped",
     "tags": [
-      "Management calitate",
-      "Impact mediu"
+      "Asigurarea calitatii",
+      "impact industrial"
     ],
-    "matchPercentage": 65,
-    "reason": "Rol de specialist în managementul calității și protecția mediului (ISO 9001/14001, gestionarea deșeurilor), folosind competențe din listă, la nivel acceptabil."
+    "matchPercentage": 72,
+    "reason": "Domeniul se potriveste partial prin managementul calitatii si al impactului asupra mediului, iar nivelul de specialist este acceptabil, desi sarcinile sunt mai degraba de documentare decat tehnice."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/Zg1mMaNA9o",
+    "title": "Specialist SMI/ QA",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:17:28Z",
+    "status": "scraped",
+    "tags": [
+      "Asigurarea calitatii",
+      "impact industrial"
+    ],
+    "matchPercentage": 72,
+    "reason": "Domeniul se potriveste partial prin managementul calitatii si al impactului asupra mediului, iar nivelul de specialist este acceptabil, desi sarcinile sunt mai degraba de documentare decat tehnice."
+  },
+  {
+    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
+    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
+    "company": "KRONOSPAN SEBES SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-22T14:27:00.172Z",
+    "status": "scraped",
+    "tags": [
+      "Analiza laborator",
+      "Procesare materiale"
+    ],
+    "matchPercentage": 70,
+    "reason": "Poziția din industria chimică (formaldehidă, precursor polimeric) folosește analiza de laborator și procesarea materialelor, fără cerințe de senioritate."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3351154",
+    "title": "SPECIALIST ÎN DOMENIUL CALITATII",
+    "company": "AGRINVEST SRL",
+    "location": [
+      "MUNICIPIUL BUZAU",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "Controlul calității"
+    ],
+    "matchPercentage": 62,
+    "reason": "Poziție entry-level de specialist în calitate, sub 3 ani experiență, parțial relevantă prin controlul calității."
   }
 ]
