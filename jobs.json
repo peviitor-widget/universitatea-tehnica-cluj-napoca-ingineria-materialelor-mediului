@@ -11,11 +11,11 @@
     "date": "2026-11-17T10:05:11Z",
     "status": "tested",
     "tags": [
-      "turnare",
-      "calitate"
+      "Turnare",
+      "Calitate"
     ],
     "matchPercentage": 90,
-    "reason": "Inginer de turnătorie cu atribuții pe fluxul tehnologic, documentație tehnologică și calitate, iar experiența anterioară este doar avantaj."
+    "reason": "Inginer turnătorie cu proiectare tehnologică, verificarea procesului de turnare, inspecții și analiza calității, fără experiență obligatorie."
   },
   {
     "url": "https://8ore.ro/locuri-de-munca/tehnician-programare-cad-cam-cnc-belciugatele",
@@ -30,44 +30,10 @@
     "status": "tested",
     "tags": [
       "CAD/CAM",
-      "CNC"
+      "Comandă numerică"
     ],
     "matchPercentage": 90,
-    "reason": "Poziție junior de programare CAD/CAM/CNC cu modelare, optimizarea proceselor și analiza neconformităților, exact în competențele de proiectare și comandă numerică."
-  },
-  {
-    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
-    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
-    "company": "KRONOSPAN SEBES SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-23T17:55:39.590Z",
-    "status": "scraped",
-    "tags": [
-      "Procesare materiale",
-      "Instalatii tehnologice"
-    ],
-    "matchPercentage": 82,
-    "reason": "Poziția de inginer chimist la instalația de formaldehidă folosește direct cunoștințele de industrie chimică și procesare, fără cerințe de senioritate."
-  },
-  {
-    "url": "https://apply.workable.com/j/48F459ED15",
-    "title": "NDT Inspector",
-    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-23T17:40:57.918Z",
-    "status": "scraped",
-    "tags": [
-      "Control calitate",
-      "Sudare"
-    ],
-    "matchPercentage": 82,
-    "reason": "Inspectia nedistructiva UT/MT/PT si controlul sudurilor folosesc direct caracterizarea si controlul calitatii materialelor, fara cerinte senior."
+    "reason": "Poziția junior de tehnician programare CAD/CAM/CNC corespunde direct competențelor de proiectare asistată, desen tehnic și comandă numerică."
   },
   {
     "url": "https://8ore.ro/locuri-de-munca/programator-cad-cam",
@@ -82,45 +48,45 @@
     "status": "tested",
     "tags": [
       "CAD/CAM",
-      "proiectare CAD"
+      "Fabricație asistată"
     ],
-    "matchPercentage": 82,
-    "reason": "Programator CAD/CAM la producător de matrițe, cu modelare, programare și optimizare tehnologică, potrivit pentru un absolvent."
+    "matchPercentage": 85,
+    "reason": "Programatorul CAD/CAM din industria matrițelor folosește direct proiectarea și fabricația asistată de calculator, fără cerințe de senioritate."
   },
   {
-    "url": "https://multijobs.ro/job/asam-angajeaza-inginer-proiectant-solidworks/3731",
-    "title": "ASAM angajeaza inginer proiectant Solidworks",
-    "company": "ASAM SA",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/269917/Hipo-Job-Finder/Dimensional-Lab-Engineer-(F/M)---Marquardt",
+    "title": "Dimensional Lab Engineer (F/M) - Marquardt",
+    "company": "HIPO COMPANY GRUP SRL",
     "location": [
-      "Iași",
+      "Sibiu",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:49:35Z",
+    "date": "2026-11-17T15:16:57Z",
     "status": "tested",
     "tags": [
-      "SolidWorks",
-      "desen tehnic"
+      "Analiza laborator",
+      "Masurare materiale"
     ],
-    "matchPercentage": 78,
-    "reason": "Inginer proiectant SolidWorks într-o companie de forjare, folosește proiectarea asistată și cunoașterea materialelor metalice, fără cerințe senior."
+    "matchPercentage": 85,
+    "reason": "Rol de inginer în laborator dimensional cu 1-5 ani experiență, care folosește direct analiza de laborator și măsurarea materialelor."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162663639-working-student-claims-management",
-    "title": "Working Student Claims Management",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
+    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
+    "company": "KRONOSPAN SEBES SA",
     "location": [
       "România"
     ],
     "salary": null,
-    "date": "2026-11-23T17:47:51.138Z",
+    "date": "2026-11-24T17:27:33.782Z",
     "status": "scraped",
     "tags": [
-      "Analiză materiale",
-      "Control calitate"
+      "chimica",
+      "instalatii"
     ],
-    "matchPercentage": 72,
-    "reason": "Working student în analiza reclamațiilor cu selecție de metode de testare, materiale și echipamente de măsurare, nivel potrivit."
+    "matchPercentage": 82,
+    "reason": "Pozitia de inginer chimist la instalatia de formaldehida se incadreaza direct in industria chimica si materialelor polimerice, cu nivel de engineer fara cerinte de senioritate."
   },
   {
     "url": "https://www.publi24.ro/anunturi/locuri-de-munca/constructii-arhitectura-design/ingineri/anunt/angajam-inginer-sudor-confectii-metalice/796i7g6e94177340de5h5070hgh9d5f9.html",
@@ -134,81 +100,100 @@
     "date": "2026-11-17T14:00:59Z",
     "status": "tested",
     "tags": [
-      "sudare",
-      "prelucrare materiale"
+      "Sudare",
+      "Prelucrare materiale"
     ],
-    "matchPercentage": 70,
-    "reason": "Inginer sudor în confecții metalice folosește direct tehnologia sudării și prelucrarea materialelor metalice, fără cerințe de senioritate."
+    "matchPercentage": 82,
+    "reason": "Poziția de inginer sudor folosește direct competența de asimilare a tehnologiei de sudare în confecții metalice, fără cerințe de senioritate."
   },
   {
-    "url": "https://turbomecanica.ro/job/inginer-proiectant-asigurarea-calitatii/",
-    "title": "Inginer/Proiectant asigurarea calitatii",
-    "company": "TURBOMECANICA SA",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162663639-working-student-claims-management",
+    "title": "Working Student Claims Management",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-24T17:21:07.291Z",
+    "status": "scraped",
+    "tags": [
+      "Analiza materialelor",
+      "Tehnici de masurare"
+    ],
+    "matchPercentage": 82,
+    "reason": "Lucrul cu reclamatii include evaluarea si optimizarea metodelor de testare, a materialelor si a dispozitivelor de masurare, folosind direct competentele de analiza si controlul calitatii, la nivel de working student."
+  },
+  {
+    "url": "https://colorcontrol.ro/vacancies",
+    "title": "Inginer Mecanic Proiectant",
+    "company": "COLOR CONTROL SERVICES SRL",
+    "location": [
+      "Apahida",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:32:49Z",
+    "status": "tested",
+    "tags": [
+      "CAD",
+      "Sudare"
+    ],
+    "matchPercentage": 80,
+    "reason": "Proiectare mecanică într-o firmă cu prelucrare CNC, sudare și acoperiri pulverulente, folosind CAD și cunoașterea sudării."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/specialist-proces-sudura/323/",
+    "title": "Specialist Proces Sudura",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Cateasca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:34:20Z",
+    "status": "tested",
+    "tags": [
+      "Sudare",
+      "Procesare"
+    ],
+    "matchPercentage": 78,
+    "reason": "Specialist în procese de sudură, domeniu care corespunde direct competențelor de tehnologie a sudării."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/Zg1mMaNA9o",
+    "title": "Specialist SMI/ QA",
+    "company": "ELECTROGRUP SA",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-23T16:50:16.612Z",
+    "date": "2026-11-24T17:12:01Z",
     "status": "scraped",
     "tags": [
-      "Asigurare calitate",
-      "Management mediu"
+      "Management calitate",
+      "Impact mediu"
     ],
-    "matchPercentage": 68,
-    "reason": "Inginer în asigurarea calității cu sistem de management calitate și mediu, domeniu direct, dar cere minim 3 ani experiență și certificări ISO."
+    "matchPercentage": 72,
+    "reason": "Sarcinile vizează direct managementul calității ISO 9001 și conformitatea și impactul asupra mediului ISO 14001, la nivel de specialist."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272218/Hipo-Job-Finder/Tehnician-analiza-calitatii-(4-schimburi---Electronica)-F/M---Marquardt",
-    "title": "Tehnician analiza calitatii (4 schimburi - Electronica) F/M - Marquardt",
-    "company": "HIPO COMPANY GRUP SRL",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/bneZVPKCu9",
+    "title": "Specialist SMI/ QA",
+    "company": "ELECTROGRUP SA",
     "location": [
-      "Sibiu",
+      "Medgidia",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:16:28Z",
-    "status": "tested",
-    "tags": [
-      "Analiza laborator",
-      "Control calitate"
-    ],
-    "matchPercentage": 68,
-    "reason": "Tehnician analiza calității în electronică, cu 1-5 ani experiență, care folosește analiză de laborator și măsurători."
-  },
-  {
-    "url": "https://apply.workable.com/j/E2A015BC57",
-    "title": "Piping/Structural/ Welding Inspector",
-    "company": "INTERTEK INDUSTRY SERVICES ROMANIA SRL",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-23T17:40:57.918Z",
+    "date": "2026-11-24T17:12:01Z",
     "status": "scraped",
     "tags": [
-      "Sudare",
-      "Control calitate"
+      "Management calitate",
+      "Impact mediu"
     ],
-    "matchPercentage": 65,
-    "reason": "Controlul calitatii la fabricatia si sudura structurilor e relevant partial, desi rolul e orientat spre constructii."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3351154",
-    "title": "SPECIALIST ÎN DOMENIUL CALITATII",
-    "company": "AGRINVEST SRL",
-    "location": [
-      "MUNICIPIUL BUZAU",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "Control calitate"
-    ],
-    "matchPercentage": 62,
-    "reason": "Poziție de specialist calitate cu sub 3 ani experiență, potrivire parțială prin controlul calității."
+    "matchPercentage": 72,
+    "reason": "Sarcinile vizează direct managementul calității ISO 9001 și conformitatea și impactul asupra mediului ISO 14001, la nivel de specialist."
   },
   {
     "url": "https://www.publi24.ro/anunturi/locuri-de-munca/service-spalatorie-auto/service-auto/anunt/angajam-inginer-mecanic-confectii-metalice/343e1ihd85e77785d33511733e75h716.html",
@@ -222,10 +207,10 @@
     "date": "2026-11-17T14:00:59Z",
     "status": "tested",
     "tags": [
-      "desen tehnic",
-      "rezistenta materiale"
+      "Prelucrare materiale",
+      "Rezistență materiale"
     ],
-    "matchPercentage": 62,
-    "reason": "Inginer mecanic în confecții metalice utilizează parțial desenul tehnic, rezistența materialelor și proiectarea asistată, fără cerințe senior."
+    "matchPercentage": 68,
+    "reason": "Rolul de inginer mecanic în confecții metalice utilizează parțial competențele de dimensionare mecanică și prelucrare a materialelor, la nivel enter/mid."
   }
 ]
